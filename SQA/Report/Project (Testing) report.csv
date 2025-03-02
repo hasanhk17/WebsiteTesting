@@ -1,0 +1,901 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.68634E+12,5994,HTTP Request,200,OK,BLC 1-46,text,TRUE,,177955,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,107,0,52
+1.68634E+12,107,HTTP Request-0,301,Moved Permanently,BLC 1-46,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,107,0,52
+1.68634E+12,5886,HTTP Request-1,200,OK,BLC 1-46,text,TRUE,,177606,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1454,0,145
+1.68634E+12,7032,HTTP Request,200,OK,BLC 1-13,text,TRUE,,177947,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,100,0,50
+1.68634E+12,100,HTTP Request-0,301,Moved Permanently,BLC 1-13,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,100,0,50
+1.68634E+12,6931,HTTP Request-1,200,OK,BLC 1-13,text,TRUE,,177598,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1801,0,155
+1.68634E+12,6713,HTTP Request,200,OK,BLC 1-48,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,103,0,52
+1.68634E+12,103,HTTP Request-0,301,Moved Permanently,BLC 1-48,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,103,0,52
+1.68634E+12,6609,HTTP Request-1,200,OK,BLC 1-48,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1445,0,161
+1.68634E+12,7314,HTTP Request,200,OK,BLC 1-27,text,TRUE,,177939,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,101,0,50
+1.68634E+12,101,HTTP Request-0,301,Moved Permanently,BLC 1-27,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,101,0,50
+1.68634E+12,7213,HTTP Request-1,200,OK,BLC 1-27,text,TRUE,,177590,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1661,0,160
+1.68634E+12,7807,HTTP Request,200,OK,BLC 1-18,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,94,0,47
+1.68634E+12,94,HTTP Request-0,301,Moved Permanently,BLC 1-18,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,94,0,47
+1.68634E+12,7713,HTTP Request-1,200,OK,BLC 1-18,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1815,0,144
+1.68634E+12,7736,HTTP Request,200,OK,BLC 1-37,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,102,0,51
+1.68634E+12,102,HTTP Request-0,301,Moved Permanently,BLC 1-37,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,102,0,51
+1.68634E+12,7633,HTTP Request-1,200,OK,BLC 1-37,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1549,0,158
+1.68634E+12,9515,HTTP Request,200,OK,BLC 1-53,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,95,0,47
+1.68634E+12,95,HTTP Request-0,301,Moved Permanently,BLC 1-53,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,95,0,47
+1.68634E+12,9420,HTTP Request-1,200,OK,BLC 1-53,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1620,0,160
+1.68634E+12,10206,HTTP Request,200,OK,BLC 1-31,text,TRUE,,177933,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,97,0,48
+1.68634E+12,97,HTTP Request-0,301,Moved Permanently,BLC 1-31,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,97,0,48
+1.68634E+12,10109,HTTP Request-1,200,OK,BLC 1-31,text,TRUE,,177584,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1786,0,168
+1.68634E+12,9811,HTTP Request,200,OK,BLC 1-73,text,TRUE,,177917,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,108,0,57
+1.68634E+12,108,HTTP Request-0,301,Moved Permanently,BLC 1-73,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,108,0,57
+1.68634E+12,9702,HTTP Request-1,200,OK,BLC 1-73,text,TRUE,,177568,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1267,0,169
+1.68634E+12,10415,HTTP Request,200,OK,BLC 1-17,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,48
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-17,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,48
+1.68634E+12,10316,HTTP Request-1,200,OK,BLC 1-17,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1882,0,152
+1.68634E+12,11302,HTTP Request,200,OK,BLC 1-50,text,TRUE,,177939,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,104,0,48
+1.68634E+12,104,HTTP Request-0,301,Moved Permanently,BLC 1-50,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,104,0,48
+1.68634E+12,11198,HTTP Request-1,200,OK,BLC 1-50,text,TRUE,,177590,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1554,0,168
+1.68634E+12,11732,HTTP Request,200,OK,BLC 1-14,text,TRUE,,177917,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,48
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-14,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,48
+1.68634E+12,11634,HTTP Request-1,200,OK,BLC 1-14,text,TRUE,,177568,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1953,0,142
+1.68634E+12,11814,HTTP Request,200,OK,BLC 1-7,text,TRUE,,177925,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,108,0,56
+1.68634E+12,108,HTTP Request-0,301,Moved Permanently,BLC 1-7,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,108,0,56
+1.68634E+12,11706,HTTP Request-1,200,OK,BLC 1-7,text,TRUE,,177576,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2014,0,151
+1.68634E+12,11979,HTTP Request,200,OK,BLC 1-5,text,TRUE,,177961,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,49
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-5,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,49
+1.68634E+12,11881,HTTP Request-1,200,OK,BLC 1-5,text,TRUE,,177612,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2009,0,151
+1.68634E+12,11592,HTTP Request,200,OK,BLC 1-49,text,TRUE,,177925,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,49
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-49,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,49
+1.68634E+12,11493,HTTP Request-1,200,OK,BLC 1-49,text,TRUE,,177576,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1562,0,144
+1.68634E+12,11246,HTTP Request,200,OK,BLC 1-89,text,TRUE,,177947,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,110,0,55
+1.68634E+12,110,HTTP Request-0,301,Moved Permanently,BLC 1-89,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,110,0,55
+1.68634E+12,11136,HTTP Request-1,200,OK,BLC 1-89,text,TRUE,,177598,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1437,0,140
+1.68634E+12,12221,HTTP Request,200,OK,BLC 1-32,text,TRUE,,177925,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,48
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-32,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,48
+1.68634E+12,12123,HTTP Request-1,200,OK,BLC 1-32,text,TRUE,,177576,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2078,0,158
+1.68634E+12,11801,HTTP Request,200,OK,BLC 1-77,text,TRUE,,177931,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,99,0,47
+1.68634E+12,99,HTTP Request-0,301,Moved Permanently,BLC 1-77,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,99,0,47
+1.68634E+12,11702,HTTP Request-1,200,OK,BLC 1-77,text,TRUE,,177582,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1694,0,163
+1.68634E+12,12413,HTTP Request,200,OK,BLC 1-24,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,92,0,46
+1.68634E+12,92,HTTP Request-0,301,Moved Permanently,BLC 1-24,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,92,0,46
+1.68634E+12,12321,HTTP Request-1,200,OK,BLC 1-24,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2268,0,150
+1.68634E+12,12840,HTTP Request,200,OK,BLC 1-42,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,96,0,46
+1.68634E+12,96,HTTP Request-0,301,Moved Permanently,BLC 1-42,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,96,0,46
+1.68634E+12,12743,HTTP Request-1,200,OK,BLC 1-42,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1643,0,160
+1.68634E+12,13059,HTTP Request,200,OK,BLC 1-29,text,TRUE,,177933,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,97,0,48
+1.68634E+12,97,HTTP Request-0,301,Moved Permanently,BLC 1-29,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,97,0,48
+1.68634E+12,12961,HTTP Request-1,200,OK,BLC 1-29,text,TRUE,,177584,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2269,0,147
+1.68634E+12,12775,HTTP Request,200,OK,BLC 1-75,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,93,0,46
+1.68634E+12,93,HTTP Request-0,301,Moved Permanently,BLC 1-75,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,93,0,46
+1.68634E+12,12681,HTTP Request-1,200,OK,BLC 1-75,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1679,0,172
+1.68634E+12,13001,HTTP Request,200,OK,BLC 1-90,text,TRUE,,177961,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,108,0,52
+1.68634E+12,108,HTTP Request-0,301,Moved Permanently,BLC 1-90,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,108,0,52
+1.68634E+12,12893,HTTP Request-1,200,OK,BLC 1-90,text,TRUE,,177612,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1647,0,156
+1.68634E+12,13562,HTTP Request,200,OK,BLC 1-40,text,TRUE,,177956,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,49
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-40,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,49
+1.68634E+12,13464,HTTP Request-1,200,OK,BLC 1-40,text,TRUE,,177607,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1989,0,149
+1.68634E+12,13312,HTTP Request,200,OK,BLC 1-91,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,117,0,66
+1.68634E+12,117,HTTP Request-0,301,Moved Permanently,BLC 1-91,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,117,0,66
+1.68634E+12,13195,HTTP Request-1,200,OK,BLC 1-91,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1503,0,171
+1.68634E+12,13519,HTTP Request,200,OK,BLC 1-72,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,106,0,50
+1.68634E+12,106,HTTP Request-0,301,Moved Permanently,BLC 1-72,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,106,0,50
+1.68634E+12,13413,HTTP Request-1,200,OK,BLC 1-72,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1827,0,174
+1.68634E+12,13851,HTTP Request,200,OK,BLC 1-61,text,TRUE,,177925,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,94,0,46
+1.68634E+12,94,HTTP Request-0,301,Moved Permanently,BLC 1-61,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,94,0,46
+1.68634E+12,13756,HTTP Request-1,200,OK,BLC 1-61,text,TRUE,,177576,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1743,0,148
+1.68634E+12,14024,HTTP Request,200,OK,BLC 1-47,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,111,0,60
+1.68634E+12,111,HTTP Request-0,301,Moved Permanently,BLC 1-47,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,111,0,60
+1.68634E+12,13912,HTTP Request-1,200,OK,BLC 1-47,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2050,0,157
+1.68634E+12,13564,HTTP Request,200,OK,BLC 1-96,text,TRUE,,177947,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,102,0,53
+1.68634E+12,102,HTTP Request-0,301,Moved Permanently,BLC 1-96,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,102,0,53
+1.68634E+12,13461,HTTP Request-1,200,OK,BLC 1-96,text,TRUE,,177598,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1388,0,151
+1.68634E+12,14036,HTTP Request,200,OK,BLC 1-51,text,TRUE,,177955,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,96,0,50
+1.68634E+12,96,HTTP Request-0,301,Moved Permanently,BLC 1-51,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,96,0,50
+1.68634E+12,13939,HTTP Request-1,200,OK,BLC 1-51,text,TRUE,,177606,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2095,0,164
+1.68634E+12,14401,HTTP Request,200,OK,BLC 1-15,text,TRUE,,177947,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,49
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-15,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,49
+1.68634E+12,14303,HTTP Request-1,200,OK,BLC 1-15,text,TRUE,,177598,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2159,0,157
+1.68634E+12,14354,HTTP Request,200,OK,BLC 1-21,text,TRUE,,177955,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,95,0,47
+1.68634E+12,95,HTTP Request-0,301,Moved Permanently,BLC 1-21,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,95,0,47
+1.68634E+12,14259,HTTP Request-1,200,OK,BLC 1-21,text,TRUE,,177606,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2127,0,155
+1.68634E+12,13843,HTTP Request,200,OK,BLC 1-74,text,TRUE,,177917,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,90,0,45
+1.68634E+12,90,HTTP Request-0,301,Moved Permanently,BLC 1-74,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,90,0,45
+1.68634E+12,13752,HTTP Request-1,200,OK,BLC 1-74,text,TRUE,,177568,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2323,0,169
+1.68634E+12,14189,HTTP Request,200,OK,BLC 1-57,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,96,0,50
+1.68634E+12,96,HTTP Request-0,301,Moved Permanently,BLC 1-57,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,96,0,50
+1.68634E+12,14092,HTTP Request-1,200,OK,BLC 1-57,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2535,0,162
+1.68634E+12,14787,HTTP Request,200,OK,BLC 1-3,text,TRUE,,177953,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,101,0,50
+1.68634E+12,101,HTTP Request-0,301,Moved Permanently,BLC 1-3,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,101,0,50
+1.68634E+12,14686,HTTP Request-1,200,OK,BLC 1-3,text,TRUE,,177604,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2412,0,150
+1.68634E+12,14296,HTTP Request,200,OK,BLC 1-52,text,TRUE,,177933,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,99,0,51
+1.68634E+12,99,HTTP Request-0,301,Moved Permanently,BLC 1-52,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,99,0,51
+1.68634E+12,14196,HTTP Request-1,200,OK,BLC 1-52,text,TRUE,,177584,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1777,0,152
+1.68634E+12,14582,HTTP Request,200,OK,BLC 1-26,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,101,0,49
+1.68634E+12,101,HTTP Request-0,301,Moved Permanently,BLC 1-26,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,101,0,49
+1.68634E+12,14481,HTTP Request-1,200,OK,BLC 1-26,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2269,0,147
+1.68634E+12,14652,HTTP Request,200,OK,BLC 1-23,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,102,0,51
+1.68634E+12,102,HTTP Request-0,301,Moved Permanently,BLC 1-23,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,102,0,51
+1.68634E+12,14550,HTTP Request-1,200,OK,BLC 1-23,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2121,0,144
+1.68634E+12,14390,HTTP Request,200,OK,BLC 1-55,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,99,0,53
+1.68634E+12,99,HTTP Request-0,301,Moved Permanently,BLC 1-55,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,99,0,53
+1.68634E+12,14290,HTTP Request-1,200,OK,BLC 1-55,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2505,0,162
+1.68634E+12,14694,HTTP Request,200,OK,BLC 1-25,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,100,0,46
+1.68634E+12,100,HTTP Request-0,301,Moved Permanently,BLC 1-25,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,100,0,46
+1.68634E+12,14593,HTTP Request-1,200,OK,BLC 1-25,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2807,0,169
+1.68634E+12,14306,HTTP Request,200,OK,BLC 1-69,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,100,0,50
+1.68634E+12,100,HTTP Request-0,301,Moved Permanently,BLC 1-69,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,100,0,50
+1.68634E+12,14205,HTTP Request-1,200,OK,BLC 1-69,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1824,0,185
+1.68634E+12,14172,HTTP Request,200,OK,BLC 1-86,text,TRUE,,177963,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,118,0,59
+1.68634E+12,118,HTTP Request-0,301,Moved Permanently,BLC 1-86,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,118,0,59
+1.68634E+12,14054,HTTP Request-1,200,OK,BLC 1-86,text,TRUE,,177614,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1723,0,155
+1.68634E+12,14425,HTTP Request,200,OK,BLC 1-62,text,TRUE,,177925,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,105,0,50
+1.68634E+12,105,HTTP Request-0,301,Moved Permanently,BLC 1-62,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,105,0,50
+1.68634E+12,14319,HTTP Request-1,200,OK,BLC 1-62,text,TRUE,,177576,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2130,0,165
+1.68634E+12,15082,HTTP Request,200,OK,BLC 1-34,text,TRUE,,177917,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,108,0,58
+1.68634E+12,108,HTTP Request-0,301,Moved Permanently,BLC 1-34,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,108,0,58
+1.68634E+12,14974,HTTP Request-1,200,OK,BLC 1-34,text,TRUE,,177568,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2559,0,158
+1.68634E+12,14677,HTTP Request,200,OK,BLC 1-81,text,TRUE,,177947,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,109,0,48
+1.68634E+12,109,HTTP Request-0,301,Moved Permanently,BLC 1-81,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,109,0,48
+1.68634E+12,14568,HTTP Request-1,200,OK,BLC 1-81,text,TRUE,,177598,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1930,0,166
+1.68634E+12,15396,HTTP Request,200,OK,BLC 1-12,text,TRUE,,177947,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,93,0,48
+1.68634E+12,93,HTTP Request-0,301,Moved Permanently,BLC 1-12,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,93,0,48
+1.68634E+12,15303,HTTP Request-1,200,OK,BLC 1-12,text,TRUE,,177598,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2417,0,154
+1.68634E+12,14654,HTTP Request,200,OK,BLC 1-94,text,TRUE,,177933,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,105,0,59
+1.68634E+12,105,HTTP Request-0,301,Moved Permanently,BLC 1-94,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,105,0,59
+1.68634E+12,14549,HTTP Request-1,200,OK,BLC 1-94,text,TRUE,,177584,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1408,0,151
+1.68634E+12,15316,HTTP Request,200,OK,BLC 1-28,text,TRUE,,177946,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,93,0,47
+1.68634E+12,93,HTTP Request-0,301,Moved Permanently,BLC 1-28,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,93,0,47
+1.68634E+12,15223,HTTP Request-1,200,OK,BLC 1-28,text,TRUE,,177597,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2272,0,151
+1.68634E+12,14742,HTTP Request,200,OK,BLC 1-87,text,TRUE,,177956,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,111,0,54
+1.68634E+12,111,HTTP Request-0,301,Moved Permanently,BLC 1-87,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,111,0,54
+1.68634E+12,14630,HTTP Request-1,200,OK,BLC 1-87,text,TRUE,,177607,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1505,0,153
+1.68634E+12,14684,HTTP Request,200,OK,BLC 1-93,text,TRUE,,177954,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,100,0,50
+1.68634E+12,100,HTTP Request-0,301,Moved Permanently,BLC 1-93,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,100,0,50
+1.68634E+12,14584,HTTP Request-1,200,OK,BLC 1-93,text,TRUE,,177605,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2159,0,156
+1.68634E+12,14772,HTTP Request,200,OK,BLC 1-84,text,TRUE,,177917,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,110,0,59
+1.68634E+12,110,HTTP Request-0,301,Moved Permanently,BLC 1-84,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,110,0,59
+1.68634E+12,14661,HTTP Request-1,200,OK,BLC 1-84,text,TRUE,,177568,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1574,0,156
+1.68634E+12,14633,HTTP Request,200,OK,BLC 1-100,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,99,0,48
+1.68634E+12,99,HTTP Request-0,301,Moved Permanently,BLC 1-100,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,99,0,48
+1.68634E+12,14534,HTTP Request-1,200,OK,BLC 1-100,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1432,0,175
+1.68634E+12,14997,HTTP Request,200,OK,BLC 1-65,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,109,0,54
+1.68634E+12,109,HTTP Request-0,301,Moved Permanently,BLC 1-65,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,109,0,54
+1.68634E+12,14888,HTTP Request-1,200,OK,BLC 1-65,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2091,0,159
+1.68634E+12,15199,HTTP Request,200,OK,BLC 1-45,text,TRUE,,177961,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,94,0,47
+1.68634E+12,94,HTTP Request-0,301,Moved Permanently,BLC 1-45,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,94,0,47
+1.68634E+12,15105,HTTP Request-1,200,OK,BLC 1-45,text,TRUE,,177612,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2015,0,158
+1.68634E+12,15468,HTTP Request,200,OK,BLC 1-19,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,48
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-19,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,48
+1.68634E+12,15370,HTTP Request-1,200,OK,BLC 1-19,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2139,0,149
+1.68634E+12,15866,HTTP Request,200,OK,BLC 1-4,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,48
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-4,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,48
+1.68634E+12,15768,HTTP Request-1,200,OK,BLC 1-4,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2486,0,145
+1.68634E+12,15745,HTTP Request,200,OK,BLC 1-20,text,TRUE,,177931,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,49
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-20,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,49
+1.68634E+12,15647,HTTP Request-1,200,OK,BLC 1-20,text,TRUE,,177582,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2199,0,155
+1.68634E+12,15592,HTTP Request,200,OK,BLC 1-36,text,TRUE,,177925,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,93,0,46
+1.68634E+12,93,HTTP Request-0,301,Moved Permanently,BLC 1-36,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,93,0,46
+1.68634E+12,15498,HTTP Request-1,200,OK,BLC 1-36,text,TRUE,,177576,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2255,0,151
+1.68634E+12,15890,HTTP Request,200,OK,BLC 1-8,text,TRUE,,177933,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,102,0,53
+1.68634E+12,102,HTTP Request-0,301,Moved Permanently,BLC 1-8,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,102,0,53
+1.68634E+12,15788,HTTP Request-1,200,OK,BLC 1-8,text,TRUE,,177584,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2417,0,151
+1.68634E+12,15976,HTTP Request,200,OK,BLC 1-2,text,TRUE,,177955,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,108,0,57
+1.68634E+12,108,HTTP Request-0,301,Moved Permanently,BLC 1-2,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,108,0,57
+1.68634E+12,15868,HTTP Request-1,200,OK,BLC 1-2,text,TRUE,,177606,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2343,0,162
+1.68634E+12,15397,HTTP Request,200,OK,BLC 1-70,text,TRUE,,177917,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,97,0,49
+1.68634E+12,97,HTTP Request-0,301,Moved Permanently,BLC 1-70,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,97,0,49
+1.68634E+12,15299,HTTP Request-1,200,OK,BLC 1-70,text,TRUE,,177568,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1653,0,174
+1.68634E+12,15294,HTTP Request,200,OK,BLC 1-82,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,103,0,49
+1.68634E+12,103,HTTP Request-0,301,Moved Permanently,BLC 1-82,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,103,0,49
+1.68634E+12,15191,HTTP Request-1,200,OK,BLC 1-82,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1917,0,145
+1.68634E+12,15731,HTTP Request,200,OK,BLC 1-38,text,TRUE,,177939,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,91,0,45
+1.68634E+12,91,HTTP Request-0,301,Moved Permanently,BLC 1-38,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,91,0,45
+1.68634E+12,15639,HTTP Request-1,200,OK,BLC 1-38,text,TRUE,,177590,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1953,0,162
+1.68634E+12,15153,HTTP Request,200,OK,BLC 1-99,text,TRUE,,177939,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,101,0,49
+1.68634E+12,101,HTTP Request-0,301,Moved Permanently,BLC 1-99,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,101,0,49
+1.68634E+12,15051,HTTP Request-1,200,OK,BLC 1-99,text,TRUE,,177590,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1374,0,183
+1.68634E+12,15244,HTTP Request,200,OK,BLC 1-92,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,53
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-92,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,53
+1.68634E+12,15146,HTTP Request-1,200,OK,BLC 1-92,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1837,0,158
+1.68634E+12,16182,HTTP Request,200,OK,BLC 1-10,text,TRUE,,177933,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,91,0,45
+1.68634E+12,91,HTTP Request-0,301,Moved Permanently,BLC 1-10,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,91,0,45
+1.68634E+12,16091,HTTP Request-1,200,OK,BLC 1-10,text,TRUE,,177584,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2287,0,145
+1.68634E+12,15960,HTTP Request,200,OK,BLC 1-33,text,TRUE,,177933,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,94,0,47
+1.68634E+12,94,HTTP Request-0,301,Moved Permanently,BLC 1-33,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,94,0,47
+1.68634E+12,15866,HTTP Request-1,200,OK,BLC 1-33,text,TRUE,,177584,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1983,0,152
+1.68634E+12,16280,HTTP Request,200,OK,BLC 1-16,text,TRUE,,177962,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,101,0,50
+1.68634E+12,101,HTTP Request-0,301,Moved Permanently,BLC 1-16,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,101,0,50
+1.68634E+12,16179,HTTP Request-1,200,OK,BLC 1-16,text,TRUE,,177613,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2155,0,158
+1.68634E+12,15666,HTTP Request,200,OK,BLC 1-80,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,119,0,53
+1.68634E+12,119,HTTP Request-0,301,Moved Permanently,BLC 1-80,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,119,0,53
+1.68634E+12,15547,HTTP Request-1,200,OK,BLC 1-80,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1745,0,172
+1.68634E+12,16184,HTTP Request,200,OK,BLC 1-43,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,44
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-43,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,44
+1.68634E+12,16086,HTTP Request-1,200,OK,BLC 1-43,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2293,0,150
+1.68634E+12,16152,HTTP Request,200,OK,BLC 1-58,text,TRUE,,177933,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,90,0,44
+1.68634E+12,90,HTTP Request-0,301,Moved Permanently,BLC 1-58,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,90,0,44
+1.68634E+12,16062,HTTP Request-1,200,OK,BLC 1-58,text,TRUE,,177584,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1753,0,170
+1.68634E+12,16290,HTTP Request,200,OK,BLC 1-44,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,49
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-44,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,49
+1.68634E+12,16192,HTTP Request-1,200,OK,BLC 1-44,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2299,0,158
+1.68634E+12,16090,HTTP Request,200,OK,BLC 1-66,text,TRUE,,177947,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,99,0,47
+1.68634E+12,99,HTTP Request-0,301,Moved Permanently,BLC 1-66,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,99,0,47
+1.68634E+12,15991,HTTP Request-1,200,OK,BLC 1-66,text,TRUE,,177598,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1771,0,176
+1.68634E+12,16102,HTTP Request,200,OK,BLC 1-79,text,TRUE,,177954,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,102,0,48
+1.68634E+12,102,HTTP Request-0,301,Moved Permanently,BLC 1-79,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,102,0,48
+1.68634E+12,16000,HTTP Request-1,200,OK,BLC 1-79,text,TRUE,,177605,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2250,0,165
+1.68634E+12,16509,HTTP Request,200,OK,BLC 1-39,text,TRUE,,177956,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,90,0,44
+1.68634E+12,90,HTTP Request-0,301,Moved Permanently,BLC 1-39,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,90,0,44
+1.68634E+12,16419,HTTP Request-1,200,OK,BLC 1-39,text,TRUE,,177607,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2339,0,151
+1.68634E+12,16363,HTTP Request,200,OK,BLC 1-54,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,99,0,50
+1.68634E+12,99,HTTP Request-0,301,Moved Permanently,BLC 1-54,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,99,0,50
+1.68634E+12,16264,HTTP Request-1,200,OK,BLC 1-54,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1849,0,158
+1.68634E+12,16088,HTTP Request,200,OK,BLC 1-83,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,105,0,52
+1.68634E+12,105,HTTP Request-0,301,Moved Permanently,BLC 1-83,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,105,0,52
+1.68634E+12,15983,HTTP Request-1,200,OK,BLC 1-83,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1676,0,155
+1.68634E+12,16301,HTTP Request,200,OK,BLC 1-67,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,106,0,54
+1.68634E+12,106,HTTP Request-0,301,Moved Permanently,BLC 1-67,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,106,0,54
+1.68634E+12,16195,HTTP Request-1,200,OK,BLC 1-67,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,3110,0,168
+1.68634E+12,16506,HTTP Request,200,OK,BLC 1-59,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,103,0,53
+1.68634E+12,103,HTTP Request-0,301,Moved Permanently,BLC 1-59,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,103,0,53
+1.68634E+12,16403,HTTP Request-1,200,OK,BLC 1-59,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2011,0,160
+1.68634E+12,16424,HTTP Request,200,OK,BLC 1-68,text,TRUE,,177931,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,106,0,47
+1.68634E+12,107,HTTP Request-0,301,Moved Permanently,BLC 1-68,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,106,0,47
+1.68634E+12,16317,HTTP Request-1,200,OK,BLC 1-68,text,TRUE,,177582,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2328,0,189
+1.68634E+12,16139,HTTP Request,200,OK,BLC 1-98,text,TRUE,,177956,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,105,0,52
+1.68634E+12,105,HTTP Request-0,301,Moved Permanently,BLC 1-98,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,105,0,52
+1.68634E+12,16034,HTTP Request-1,200,OK,BLC 1-98,text,TRUE,,177607,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1418,0,165
+1.68634E+12,16534,HTTP Request,200,OK,BLC 1-60,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,100,0,49
+1.68634E+12,100,HTTP Request-0,301,Moved Permanently,BLC 1-60,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,100,0,49
+1.68634E+12,16433,HTTP Request-1,200,OK,BLC 1-60,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2470,0,153
+1.68634E+12,16559,HTTP Request,200,OK,BLC 1-71,text,TRUE,,177939,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,101,0,49
+1.68634E+12,101,HTTP Request-0,301,Moved Permanently,BLC 1-71,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,101,0,49
+1.68634E+12,16458,HTTP Request-1,200,OK,BLC 1-71,text,TRUE,,177590,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1716,0,192
+1.68634E+12,16431,HTTP Request,200,OK,BLC 1-85,text,TRUE,,177939,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,102,0,52
+1.68634E+12,102,HTTP Request-0,301,Moved Permanently,BLC 1-85,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,102,0,52
+1.68634E+12,16328,HTTP Request-1,200,OK,BLC 1-85,text,TRUE,,177590,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1751,0,155
+1.68634E+12,16864,HTTP Request,200,OK,BLC 1-41,text,TRUE,,177947,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,104,0,51
+1.68634E+12,104,HTTP Request-0,301,Moved Permanently,BLC 1-41,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,104,0,51
+1.68634E+12,16760,HTTP Request-1,200,OK,BLC 1-41,text,TRUE,,177598,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2737,0,153
+1.68634E+12,16662,HTTP Request,200,OK,BLC 1-63,text,TRUE,,177964,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,95,0,45
+1.68634E+12,95,HTTP Request-0,301,Moved Permanently,BLC 1-63,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,95,0,45
+1.68634E+12,16567,HTTP Request-1,200,OK,BLC 1-63,text,TRUE,,177615,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1985,0,174
+1.68634E+12,16985,HTTP Request,200,OK,BLC 1-30,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,107,0,49
+1.68634E+12,107,HTTP Request-0,301,Moved Permanently,BLC 1-30,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,107,0,49
+1.68634E+12,16878,HTTP Request-1,200,OK,BLC 1-30,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2003,0,168
+1.68634E+12,17198,HTTP Request,200,OK,BLC 1-9,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,49
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-9,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,49
+1.68634E+12,17100,HTTP Request-1,200,OK,BLC 1-9,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2471,0,147
+1.68634E+12,16574,HTTP Request,200,OK,BLC 1-76,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,107,0,50
+1.68634E+12,107,HTTP Request-0,301,Moved Permanently,BLC 1-76,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,107,0,50
+1.68634E+12,16466,HTTP Request-1,200,OK,BLC 1-76,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1693,0,163
+1.68634E+12,17320,HTTP Request,200,OK,BLC 1-1,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,117,0,63
+1.68634E+12,117,HTTP Request-0,301,Moved Permanently,BLC 1-1,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,117,0,63
+1.68634E+12,17203,HTTP Request-1,200,OK,BLC 1-1,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2401,0,150
+1.68634E+12,16999,HTTP Request,200,OK,BLC 1-35,text,TRUE,,177955,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,105,0,56
+1.68634E+12,105,HTTP Request-0,301,Moved Permanently,BLC 1-35,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,105,0,56
+1.68634E+12,16893,HTTP Request-1,200,OK,BLC 1-35,text,TRUE,,177606,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2723,0,149
+1.68634E+12,16431,HTTP Request,200,OK,BLC 1-95,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,98,0,49
+1.68634E+12,98,HTTP Request-0,301,Moved Permanently,BLC 1-95,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,98,0,49
+1.68634E+12,16333,HTTP Request-1,200,OK,BLC 1-95,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1689,0,164
+1.68634E+12,16524,HTTP Request,200,OK,BLC 1-88,text,TRUE,,177947,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,106,0,55
+1.68634E+12,106,HTTP Request-0,301,Moved Permanently,BLC 1-88,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,106,0,55
+1.68634E+12,16418,HTTP Request-1,200,OK,BLC 1-88,text,TRUE,,177598,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1654,0,153
+1.68634E+12,17343,HTTP Request,200,OK,BLC 1-6,text,TRUE,,177956,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,110,0,47
+1.68634E+12,110,HTTP Request-0,301,Moved Permanently,BLC 1-6,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,110,0,47
+1.68634E+12,17232,HTTP Request-1,200,OK,BLC 1-6,text,TRUE,,177607,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2274,0,154
+1.68634E+12,16916,HTTP Request,200,OK,BLC 1-56,text,TRUE,,177931,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,106,0,53
+1.68634E+12,106,HTTP Request-0,301,Moved Permanently,BLC 1-56,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,106,0,53
+1.68634E+12,16809,HTTP Request-1,200,OK,BLC 1-56,text,TRUE,,177582,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2179,0,162
+1.68634E+12,16712,HTTP Request,200,OK,BLC 1-78,text,TRUE,,177955,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,112,0,52
+1.68634E+12,112,HTTP Request-0,301,Moved Permanently,BLC 1-78,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,112,0,52
+1.68634E+12,16600,HTTP Request-1,200,OK,BLC 1-78,text,TRUE,,177606,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1852,0,161
+1.68634E+12,17265,HTTP Request,200,OK,BLC 1-22,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,99,0,50
+1.68634E+12,99,HTTP Request-0,301,Moved Permanently,BLC 1-22,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,99,0,50
+1.68634E+12,17166,HTTP Request-1,200,OK,BLC 1-22,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2546,0,152
+1.68634E+12,17427,HTTP Request,200,OK,BLC 1-11,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,105,0,60
+1.68634E+12,105,HTTP Request-0,301,Moved Permanently,BLC 1-11,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,105,0,60
+1.68634E+12,17322,HTTP Request-1,200,OK,BLC 1-11,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,2612,0,146
+1.68634E+12,16581,HTTP Request,200,OK,BLC 1-97,text,TRUE,,177925,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,102,0,48
+1.68634E+12,102,HTTP Request-0,301,Moved Permanently,BLC 1-97,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,102,0,48
+1.68634E+12,16479,HTTP Request-1,200,OK,BLC 1-97,text,TRUE,,177576,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1669,0,151
+1.68634E+12,10423,HTTP Request,200,OK,BLC 1-13,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,81,0,0
+1.68634E+12,81,HTTP Request-0,301,Moved Permanently,BLC 1-13,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,81,0,0
+1.68634E+12,10342,HTTP Request-1,200,OK,BLC 1-13,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,479,0,0
+1.68634E+12,17061,HTTP Request,200,OK,BLC 1-64,text,TRUE,,177954,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,95,0,49
+1.68634E+12,95,HTTP Request-0,301,Moved Permanently,BLC 1-64,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,95,0,49
+1.68634E+12,16966,HTTP Request-1,200,OK,BLC 1-64,text,TRUE,,177605,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,1871,0,148
+1.68634E+12,11354,HTTP Request,200,OK,BLC 1-46,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,55,0,0
+1.68634E+12,55,HTTP Request-0,301,Moved Permanently,BLC 1-46,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,55,0,0
+1.68634E+12,11299,HTTP Request-1,200,OK,BLC 1-46,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,449,0,0
+1.68634E+12,11149,HTTP Request,200,OK,BLC 1-27,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,63,0,0
+1.68634E+12,63,HTTP Request-0,301,Moved Permanently,BLC 1-27,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,63,0,0
+1.68634E+12,11086,HTTP Request-1,200,OK,BLC 1-27,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,500,0,0
+1.68634E+12,11825,HTTP Request,200,OK,BLC 1-48,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,66,0,0
+1.68634E+12,66,HTTP Request-0,301,Moved Permanently,BLC 1-48,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,66,0,0
+1.68634E+12,11758,HTTP Request-1,200,OK,BLC 1-48,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,603,0,0
+1.68634E+12,11240,HTTP Request,200,OK,BLC 1-18,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-18,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,11189,HTTP Request-1,200,OK,BLC 1-18,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,367,0,0
+1.68634E+12,12028,HTTP Request,200,OK,BLC 1-37,text,TRUE,,177924,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-37,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,11975,HTTP Request-1,200,OK,BLC 1-37,text,TRUE,,177575,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,609,0,0
+1.68634E+12,10601,HTTP Request,200,OK,BLC 1-73,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-73,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,10551,HTTP Request-1,200,OK,BLC 1-73,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,334,0,0
+1.68634E+12,10710,HTTP Request,200,OK,BLC 1-31,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,48,HTTP Request-0,301,Moved Permanently,BLC 1-31,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,10662,HTTP Request-1,200,OK,BLC 1-31,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,345,0,0
+1.68634E+12,11460,HTTP Request,200,OK,BLC 1-53,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,66,0,0
+1.68634E+12,66,HTTP Request-0,301,Moved Permanently,BLC 1-53,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,66,0,0
+1.68634E+12,11394,HTTP Request-1,200,OK,BLC 1-53,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,340,0,0
+1.68634E+12,9862,HTTP Request,200,OK,BLC 1-89,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,47,0,0
+1.68634E+12,47,HTTP Request-0,301,Moved Permanently,BLC 1-89,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,47,0,0
+1.68634E+12,9815,HTTP Request-1,200,OK,BLC 1-89,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,524,0,0
+1.68634E+12,10336,HTTP Request,200,OK,BLC 1-50,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,49,HTTP Request-0,301,Moved Permanently,BLC 1-50,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,10287,HTTP Request-1,200,OK,BLC 1-50,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,407,0,0
+1.68634E+12,11868,HTTP Request,200,OK,BLC 1-17,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,95,0,0
+1.68634E+12,95,HTTP Request-0,301,Moved Permanently,BLC 1-17,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,95,0,0
+1.68634E+12,11773,HTTP Request-1,200,OK,BLC 1-17,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,344,0,0
+1.68634E+12,10600,HTTP Request,200,OK,BLC 1-7,text,TRUE,,177924,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,48,HTTP Request-0,301,Moved Permanently,BLC 1-7,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,10552,HTTP Request-1,200,OK,BLC 1-7,text,TRUE,,177575,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,406,0,0
+1.68634E+12,10842,HTTP Request,200,OK,BLC 1-49,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-49,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,10792,HTTP Request-1,200,OK,BLC 1-49,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,463,0,0
+1.68634E+12,9750,HTTP Request,200,OK,BLC 1-42,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,46,0,0
+1.68634E+12,46,HTTP Request-0,301,Moved Permanently,BLC 1-42,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,46,0,0
+1.68634E+12,9703,HTTP Request-1,200,OK,BLC 1-42,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,338,0,0
+1.68634E+12,11144,HTTP Request,200,OK,BLC 1-14,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-14,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,11093,HTTP Request-1,200,OK,BLC 1-14,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,444,0,0
+1.68634E+12,9747,HTTP Request,200,OK,BLC 1-29,text,TRUE,,177924,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-29,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,9696,HTTP Request-1,200,OK,BLC 1-29,text,TRUE,,177575,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,535,0,0
+1.68634E+12,10445,HTTP Request,200,OK,BLC 1-24,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,46,0,0
+1.68634E+12,46,HTTP Request-0,301,Moved Permanently,BLC 1-24,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,46,0,0
+1.68634E+12,10399,HTTP Request-1,200,OK,BLC 1-24,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,400,0,0
+1.68634E+12,11074,HTTP Request,200,OK,BLC 1-5,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-5,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,11024,HTTP Request-1,200,OK,BLC 1-5,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,409,0,0
+1.68634E+12,9686,HTTP Request,200,OK,BLC 1-90,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-90,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,9636,HTTP Request-1,200,OK,BLC 1-90,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,384,0,0
+1.68634E+12,8775,HTTP Request,200,OK,BLC 1-55,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,49,0,0
+1.68634E+12,49,HTTP Request-0,301,Moved Permanently,BLC 1-55,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,49,0,0
+1.68634E+12,8726,HTTP Request-1,200,OK,BLC 1-55,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,374,0,0
+1.68634E+12,11408,HTTP Request,200,OK,BLC 1-77,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,48,HTTP Request-0,301,Moved Permanently,BLC 1-77,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,11360,HTTP Request-1,200,OK,BLC 1-77,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,490,0,0
+1.68634E+12,10152,HTTP Request,200,OK,BLC 1-72,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-72,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,10091,HTTP Request-1,200,OK,BLC 1-72,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,265,0,0
+1.68634E+12,11885,HTTP Request,200,OK,BLC 1-32,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-32,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,11835,HTTP Request-1,200,OK,BLC 1-32,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,410,0,0
+1.68634E+12,10217,HTTP Request,200,OK,BLC 1-61,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-61,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,10166,HTTP Request-1,200,OK,BLC 1-61,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,236,0,0
+1.68634E+12,10243,HTTP Request,200,OK,BLC 1-96,text,TRUE,,177955,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-96,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,10183,HTTP Request-1,200,OK,BLC 1-96,text,TRUE,,177606,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,420,0,0
+1.68634E+12,10937,HTTP Request,200,OK,BLC 1-40,text,TRUE,,177956,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-40,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,10884,HTTP Request-1,200,OK,BLC 1-40,text,TRUE,,177607,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,349,0,0
+1.68634E+12,10828,HTTP Request,200,OK,BLC 1-91,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-91,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,10768,HTTP Request-1,200,OK,BLC 1-91,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,285,0,0
+1.68634E+12,10307,HTTP Request,200,OK,BLC 1-57,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-57,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,10255,HTTP Request-1,200,OK,BLC 1-57,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,353,0,0
+1.68634E+12,10966,HTTP Request,200,OK,BLC 1-74,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,57,0,0
+1.68634E+12,57,HTTP Request-0,301,Moved Permanently,BLC 1-74,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,57,0,0
+1.68634E+12,10909,HTTP Request-1,200,OK,BLC 1-74,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,370,0,0
+1.68634E+12,10520,HTTP Request,200,OK,BLC 1-62,text,TRUE,,177947,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-62,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,10460,HTTP Request-1,200,OK,BLC 1-62,text,TRUE,,177598,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,638,0,0
+1.68634E+12,10754,HTTP Request,200,OK,BLC 1-3,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,52,0,0
+1.68634E+12,52,HTTP Request-0,301,Moved Permanently,BLC 1-3,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,52,0,0
+1.68634E+12,10702,HTTP Request-1,200,OK,BLC 1-3,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,439,0,0
+1.68634E+12,11138,HTTP Request,200,OK,BLC 1-47,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-47,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,11087,HTTP Request-1,200,OK,BLC 1-47,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,364,0,0
+1.68634E+12,11109,HTTP Request,200,OK,BLC 1-15,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,59,0,0
+1.68634E+12,59,HTTP Request-0,301,Moved Permanently,BLC 1-15,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,59,0,0
+1.68634E+12,11050,HTTP Request-1,200,OK,BLC 1-15,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,373,0,0
+1.68634E+12,10125,HTTP Request,200,OK,BLC 1-94,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,46,0,0
+1.68634E+12,46,HTTP Request-0,301,Moved Permanently,BLC 1-94,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,46,0,0
+1.68634E+12,10078,HTTP Request-1,200,OK,BLC 1-94,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,362,0,0
+1.68634E+12,10854,HTTP Request,200,OK,BLC 1-69,text,TRUE,,177964,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,61,0,0
+1.68634E+12,61,HTTP Request-0,301,Moved Permanently,BLC 1-69,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,61,0,0
+1.68634E+12,10793,HTTP Request-1,200,OK,BLC 1-69,text,TRUE,,177615,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,422,0,0
+1.68634E+12,10357,HTTP Request,200,OK,BLC 1-100,text,TRUE,,177946,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,63,0,0
+1.68634E+12,63,HTTP Request-0,301,Moved Permanently,BLC 1-100,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,63,0,0
+1.68634E+12,10294,HTTP Request-1,200,OK,BLC 1-100,text,TRUE,,177597,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,368,0,0
+1.68634E+12,10462,HTTP Request,200,OK,BLC 1-84,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,56,0,0
+1.68634E+12,56,HTTP Request-0,301,Moved Permanently,BLC 1-84,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,56,0,0
+1.68634E+12,10406,HTTP Request-1,200,OK,BLC 1-84,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,311,0,0
+1.68634E+12,11539,HTTP Request,200,OK,BLC 1-51,text,TRUE,,177924,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-51,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,11479,HTTP Request-1,200,OK,BLC 1-51,text,TRUE,,177575,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,380,0,0
+1.68634E+12,12629,HTTP Request,200,OK,BLC 1-75,text,TRUE,,177931,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,48,HTTP Request-0,301,Moved Permanently,BLC 1-75,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,12581,HTTP Request-1,200,OK,BLC 1-75,text,TRUE,,177582,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,324,0,0
+1.68634E+12,11291,HTTP Request,200,OK,BLC 1-23,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-23,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,11241,HTTP Request-1,200,OK,BLC 1-23,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,486,0,0
+1.68634E+12,10680,HTTP Request,200,OK,BLC 1-87,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-87,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,10628,HTTP Request-1,200,OK,BLC 1-87,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,343,0,0
+1.68634E+12,11731,HTTP Request,200,OK,BLC 1-21,text,TRUE,,177924,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,48,HTTP Request-0,301,Moved Permanently,BLC 1-21,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,11683,HTTP Request-1,200,OK,BLC 1-21,text,TRUE,,177575,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,377,0,0
+1.68634E+12,11510,HTTP Request,200,OK,BLC 1-52,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,48,HTTP Request-0,301,Moved Permanently,BLC 1-52,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,11462,HTTP Request-1,200,OK,BLC 1-52,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,413,0,0
+1.68634E+12,11477,HTTP Request,200,OK,BLC 1-25,text,TRUE,,177956,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,46,0,0
+1.68634E+12,46,HTTP Request-0,301,Moved Permanently,BLC 1-25,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,46,0,0
+1.68634E+12,11431,HTTP Request-1,200,OK,BLC 1-25,text,TRUE,,177607,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,737,0,0
+1.68634E+12,9135,HTTP Request,200,OK,BLC 1-11,text,TRUE,,177956,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,47,0,0
+1.68634E+12,47,HTTP Request-0,301,Moved Permanently,BLC 1-11,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,47,0,0
+1.68634E+12,9088,HTTP Request-1,200,OK,BLC 1-11,text,TRUE,,177607,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,337,0,0
+1.68634E+12,12230,HTTP Request,200,OK,BLC 1-26,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-26,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,12180,HTTP Request-1,200,OK,BLC 1-26,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,801,0,0
+1.68634E+12,11151,HTTP Request,200,OK,BLC 1-20,text,TRUE,,177924,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-20,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,11101,HTTP Request-1,200,OK,BLC 1-20,text,TRUE,,177575,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,273,0,0
+1.68634E+12,10856,HTTP Request,200,OK,BLC 1-33,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,49,0,0
+1.68634E+12,49,HTTP Request-0,301,Moved Permanently,BLC 1-33,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,49,0,0
+1.68634E+12,10807,HTTP Request-1,200,OK,BLC 1-33,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,306,0,0
+1.68634E+12,11497,HTTP Request,200,OK,BLC 1-45,text,TRUE,,177956,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,47,0,0
+1.68634E+12,11491,HTTP Request,200,OK,BLC 1-19,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,47,HTTP Request-0,301,Moved Permanently,BLC 1-45,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,47,0,0
+1.68634E+12,11450,HTTP Request-1,200,OK,BLC 1-45,text,TRUE,,177607,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,309,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-19,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,11431,HTTP Request-1,200,OK,BLC 1-19,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,305,0,0
+1.68634E+12,11178,HTTP Request,200,OK,BLC 1-2,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-2,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,11127,HTTP Request-1,200,OK,BLC 1-2,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,380,0,0
+1.68634E+12,11756,HTTP Request,200,OK,BLC 1-34,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,63,0,0
+1.68634E+12,63,HTTP Request-0,301,Moved Permanently,BLC 1-34,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,63,0,0
+1.68634E+12,11693,HTTP Request-1,200,OK,BLC 1-34,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,308,0,0
+1.68634E+12,10909,HTTP Request,200,OK,BLC 1-10,text,TRUE,,177947,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,54,0,0
+1.68634E+12,54,HTTP Request-0,301,Moved Permanently,BLC 1-10,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,54,0,0
+1.68634E+12,10855,HTTP Request-1,200,OK,BLC 1-10,text,TRUE,,177598,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,253,0,0
+1.68634E+12,11285,HTTP Request,200,OK,BLC 1-36,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,54,0,0
+1.68634E+12,54,HTTP Request-0,301,Moved Permanently,BLC 1-36,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,54,0,0
+1.68634E+12,11231,HTTP Request-1,200,OK,BLC 1-36,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,332,0,0
+1.68634E+12,11624,HTTP Request,200,OK,BLC 1-65,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,55,0,0
+1.68634E+12,55,HTTP Request-0,301,Moved Permanently,BLC 1-65,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,55,0,0
+1.68634E+12,11568,HTTP Request-1,200,OK,BLC 1-65,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,357,0,0
+1.68634E+12,12246,HTTP Request,200,OK,BLC 1-86,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,57,0,0
+1.68634E+12,57,HTTP Request-0,301,Moved Permanently,BLC 1-86,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,57,0,0
+1.68634E+12,12189,HTTP Request-1,200,OK,BLC 1-86,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,645,0,0
+1.68634E+12,11684,HTTP Request,200,OK,BLC 1-93,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,49,0,0
+1.68634E+12,49,HTTP Request-0,301,Moved Permanently,BLC 1-93,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,49,0,0
+1.68634E+12,11634,HTTP Request-1,200,OK,BLC 1-93,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,346,0,0
+1.68634E+12,11750,HTTP Request,200,OK,BLC 1-38,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,49,0,0
+1.68634E+12,49,HTTP Request-0,301,Moved Permanently,BLC 1-38,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,49,0,0
+1.68634E+12,11701,HTTP Request-1,200,OK,BLC 1-38,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,471,0,0
+1.68634E+12,12357,HTTP Request,200,OK,BLC 1-12,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,48,HTTP Request-0,301,Moved Permanently,BLC 1-12,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,12309,HTTP Request-1,200,OK,BLC 1-12,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,244,0,0
+1.68634E+12,12299,HTTP Request,200,OK,BLC 1-28,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,48,HTTP Request-0,301,Moved Permanently,BLC 1-28,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,12251,HTTP Request-1,200,OK,BLC 1-28,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,294,0,0
+1.68634E+12,10999,HTTP Request,200,OK,BLC 1-83,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,54,0,0
+1.68634E+12,54,HTTP Request-0,301,Moved Permanently,BLC 1-83,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,54,0,0
+1.68634E+12,10945,HTTP Request-1,200,OK,BLC 1-83,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,367,0,0
+1.68634E+12,10638,HTTP Request,200,OK,BLC 1-41,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-41,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,10585,HTTP Request-1,200,OK,BLC 1-41,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,191,0,0
+1.68634E+12,11275,HTTP Request,200,OK,BLC 1-44,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-44,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,11225,HTTP Request-1,200,OK,BLC 1-44,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,265,0,0
+1.68634E+12,11137,HTTP Request,200,OK,BLC 1-54,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,55,0,0
+1.68634E+12,55,HTTP Request-0,301,Moved Permanently,BLC 1-54,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,55,0,0
+1.68634E+12,11082,HTTP Request-1,200,OK,BLC 1-54,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,364,0,0
+1.68634E+12,11652,HTTP Request,200,OK,BLC 1-16,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,57,0,0
+1.68634E+12,57,HTTP Request-0,301,Moved Permanently,BLC 1-16,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,57,0,0
+1.68634E+12,11595,HTTP Request-1,200,OK,BLC 1-16,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,288,0,0
+1.68634E+12,11509,HTTP Request,200,OK,BLC 1-43,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,67,0,0
+1.68634E+12,67,HTTP Request-0,301,Moved Permanently,BLC 1-43,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,67,0,0
+1.68634E+12,11442,HTTP Request-1,200,OK,BLC 1-43,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,358,0,0
+1.68634E+12,12166,HTTP Request,200,OK,BLC 1-8,text,TRUE,,177956,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-8,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,12116,HTTP Request-1,200,OK,BLC 1-8,text,TRUE,,177607,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,322,0,0
+1.68634E+12,10887,HTTP Request,200,OK,BLC 1-1,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,49,0,0
+1.68634E+12,49,HTTP Request-0,301,Moved Permanently,BLC 1-1,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,49,0,0
+1.68634E+12,10838,HTTP Request-1,200,OK,BLC 1-1,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,218,0,0
+1.68634E+12,11904,HTTP Request,200,OK,BLC 1-80,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-80,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,11851,HTTP Request-1,200,OK,BLC 1-80,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,359,0,0
+1.68634E+12,11079,HTTP Request,200,OK,BLC 1-9,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,61,0,0
+1.68634E+12,61,HTTP Request-0,301,Moved Permanently,BLC 1-9,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,61,0,0
+1.68634E+12,11018,HTTP Request-1,200,OK,BLC 1-9,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,253,0,0
+1.68634E+12,10971,HTTP Request,200,OK,BLC 1-6,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,55,0,0
+1.68634E+12,55,HTTP Request-0,301,Moved Permanently,BLC 1-6,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,55,0,0
+1.68634E+12,10916,HTTP Request-1,200,OK,BLC 1-6,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,218,0,0
+1.68634E+12,12279,HTTP Request,200,OK,BLC 1-82,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,49,0,0
+1.68634E+12,49,HTTP Request-0,301,Moved Permanently,BLC 1-82,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,49,0,0
+1.68634E+12,12230,HTTP Request-1,200,OK,BLC 1-82,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,491,0,0
+1.68634E+12,12299,HTTP Request,200,OK,BLC 1-70,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-70,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,12249,HTTP Request-1,200,OK,BLC 1-70,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,471,0,0
+1.68634E+12,11665,HTTP Request,200,OK,BLC 1-58,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,52,0,0
+1.68634E+12,52,HTTP Request-0,301,Moved Permanently,BLC 1-58,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,52,0,0
+1.68634E+12,11612,HTTP Request-1,200,OK,BLC 1-58,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,387,0,0
+1.68634E+12,11500,HTTP Request,200,OK,BLC 1-67,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,56,0,0
+1.68634E+12,56,HTTP Request-0,301,Moved Permanently,BLC 1-67,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,56,0,0
+1.68634E+12,11444,HTTP Request-1,200,OK,BLC 1-67,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,413,0,0
+1.68634E+12,11340,HTTP Request,200,OK,BLC 1-60,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,97,0,0
+1.68634E+12,97,HTTP Request-0,301,Moved Permanently,BLC 1-60,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,97,0,0
+1.68634E+12,11243,HTTP Request-1,200,OK,BLC 1-60,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,205,0,0
+1.68634E+12,11315,HTTP Request,200,OK,BLC 1-76,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,52,0,0
+1.68634E+12,52,HTTP Request-0,301,Moved Permanently,BLC 1-76,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,52,0,0
+1.68634E+12,11263,HTTP Request-1,200,OK,BLC 1-76,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,224,0,0
+1.68634E+12,12738,HTTP Request,200,OK,BLC 1-4,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-4,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,12688,HTTP Request-1,200,OK,BLC 1-4,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,495,0,0
+1.68634E+12,13179,HTTP Request,200,OK,BLC 1-81,text,TRUE,,177946,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-81,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,13129,HTTP Request-1,200,OK,BLC 1-81,text,TRUE,,177597,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,372,0,0
+1.68634E+12,11918,HTTP Request,200,OK,BLC 1-66,text,TRUE,,177946,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,52,0,0
+1.68634E+12,52,HTTP Request-0,301,Moved Permanently,BLC 1-66,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,52,0,0
+1.68634E+12,11865,HTTP Request-1,200,OK,BLC 1-66,text,TRUE,,177597,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,354,0,0
+1.68634E+12,11187,HTTP Request,200,OK,BLC 1-22,text,TRUE,,177940,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-22,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,11136,HTTP Request-1,200,OK,BLC 1-22,text,TRUE,,177591,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,391,0,0
+1.68634E+12,11459,HTTP Request,200,OK,BLC 1-71,text,TRUE,,177948,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,57,0,0
+1.68634E+12,57,HTTP Request-0,301,Moved Permanently,BLC 1-71,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,57,0,0
+1.68634E+12,11402,HTTP Request-1,200,OK,BLC 1-71,text,TRUE,,177599,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,253,0,0
+1.68634E+12,11922,HTTP Request,200,OK,BLC 1-79,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,55,0,0
+1.68634E+12,55,HTTP Request-0,301,Moved Permanently,BLC 1-79,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,55,0,0
+1.68634E+12,11866,HTTP Request-1,200,OK,BLC 1-79,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,321,0,0
+1.68634E+12,11325,HTTP Request,200,OK,BLC 1-97,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,55,0,0
+1.68634E+12,55,HTTP Request-0,301,Moved Permanently,BLC 1-97,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,55,0,0
+1.68634E+12,11270,HTTP Request-1,200,OK,BLC 1-97,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,330,0,0
+1.68634E+12,9647,HTTP Request,200,OK,BLC 1-18,text,TRUE,,177932,266,100,100,https://elearn.daffodilvarsity.edu.bd:443/,55,0,0
+1.68634E+12,55,HTTP Request-0,301,Moved Permanently,BLC 1-18,text,TRUE,,349,131,100,100,http://elearn.daffodilvarsity.edu.bd/,55,0,0
+1.68634E+12,9592,HTTP Request-1,200,OK,BLC 1-18,text,TRUE,,177583,135,100,100,https://elearn.daffodilvarsity.edu.bd:443/,322,0,0
+1.68634E+12,12766,HTTP Request,200,OK,BLC 1-99,text,TRUE,,177946,266,99,99,https://elearn.daffodilvarsity.edu.bd:443/,56,0,0
+1.68634E+12,56,HTTP Request-0,301,Moved Permanently,BLC 1-99,text,TRUE,,349,131,99,99,http://elearn.daffodilvarsity.edu.bd/,56,0,0
+1.68634E+12,12710,HTTP Request-1,200,OK,BLC 1-99,text,TRUE,,177597,135,99,99,https://elearn.daffodilvarsity.edu.bd:443/,452,0,0
+1.68634E+12,11436,HTTP Request,200,OK,BLC 1-78,text,TRUE,,177948,266,99,99,https://elearn.daffodilvarsity.edu.bd:443/,52,0,0
+1.68634E+12,52,HTTP Request-0,301,Moved Permanently,BLC 1-78,text,TRUE,,349,131,99,99,http://elearn.daffodilvarsity.edu.bd/,52,0,0
+1.68634E+12,11384,HTTP Request-1,200,OK,BLC 1-78,text,TRUE,,177599,135,99,99,https://elearn.daffodilvarsity.edu.bd:443/,390,0,0
+1.68634E+12,11653,HTTP Request,200,OK,BLC 1-63,text,TRUE,,177940,266,99,99,https://elearn.daffodilvarsity.edu.bd:443/,47,0,0
+1.68634E+12,47,HTTP Request-0,301,Moved Permanently,BLC 1-63,text,TRUE,,349,131,99,99,http://elearn.daffodilvarsity.edu.bd/,47,0,0
+1.68634E+12,11605,HTTP Request-1,200,OK,BLC 1-63,text,TRUE,,177591,135,99,99,https://elearn.daffodilvarsity.edu.bd:443/,239,0,0
+1.68634E+12,11671,HTTP Request,200,OK,BLC 1-30,text,TRUE,,177940,266,99,99,https://elearn.daffodilvarsity.edu.bd:443/,55,0,0
+1.68634E+12,55,HTTP Request-0,301,Moved Permanently,BLC 1-30,text,TRUE,,349,131,99,99,http://elearn.daffodilvarsity.edu.bd/,55,0,0
+1.68634E+12,11616,HTTP Request-1,200,OK,BLC 1-30,text,TRUE,,177591,135,99,99,https://elearn.daffodilvarsity.edu.bd:443/,263,0,0
+1.68634E+12,10072,HTTP Request,200,OK,BLC 1-48,text,TRUE,,177932,266,99,99,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-48,text,TRUE,,349,131,99,99,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,10021,HTTP Request-1,200,OK,BLC 1-48,text,TRUE,,177583,135,99,99,https://elearn.daffodilvarsity.edu.bd:443/,186,0,0
+1.68634E+12,12058,HTTP Request,200,OK,BLC 1-68,text,TRUE,,177939,266,98,98,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-68,text,TRUE,,349,131,98,98,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,12007,HTTP Request-1,200,OK,BLC 1-68,text,TRUE,,177590,135,98,98,https://elearn.daffodilvarsity.edu.bd:443/,285,0,0
+1.68634E+12,11467,HTTP Request,200,OK,BLC 1-64,text,TRUE,,177939,266,98,98,https://elearn.daffodilvarsity.edu.bd:443/,54,0,0
+1.68634E+12,54,HTTP Request-0,301,Moved Permanently,BLC 1-64,text,TRUE,,349,131,98,98,http://elearn.daffodilvarsity.edu.bd/,54,0,0
+1.68634E+12,11413,HTTP Request-1,200,OK,BLC 1-64,text,TRUE,,177590,135,98,98,https://elearn.daffodilvarsity.edu.bd:443/,294,0,0
+1.68634E+12,11701,HTTP Request,200,OK,BLC 1-56,text,TRUE,,177932,266,98,98,https://elearn.daffodilvarsity.edu.bd:443/,56,0,0
+1.68634E+12,56,HTTP Request-0,301,Moved Permanently,BLC 1-56,text,TRUE,,349,131,98,98,http://elearn.daffodilvarsity.edu.bd/,56,0,0
+1.68634E+12,11645,HTTP Request-1,200,OK,BLC 1-56,text,TRUE,,177583,135,98,98,https://elearn.daffodilvarsity.edu.bd:443/,405,0,0
+1.68634E+12,13175,HTTP Request,200,OK,BLC 1-92,text,TRUE,,177932,266,98,98,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-92,text,TRUE,,349,131,98,98,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,13122,HTTP Request-1,200,OK,BLC 1-92,text,TRUE,,177583,135,98,98,https://elearn.daffodilvarsity.edu.bd:443/,301,0,0
+1.68634E+12,11766,HTTP Request,200,OK,BLC 1-13,text,TRUE,,177948,266,98,98,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-13,text,TRUE,,349,131,98,98,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,11715,HTTP Request-1,200,OK,BLC 1-13,text,TRUE,,177599,135,98,98,https://elearn.daffodilvarsity.edu.bd:443/,292,0,0
+1.68634E+12,12087,HTTP Request,200,OK,BLC 1-85,text,TRUE,,177932,266,97,97,https://elearn.daffodilvarsity.edu.bd:443/,49,0,0
+1.68634E+12,49,HTTP Request-0,301,Moved Permanently,BLC 1-85,text,TRUE,,349,131,97,97,http://elearn.daffodilvarsity.edu.bd/,49,0,0
+1.68634E+12,12038,HTTP Request-1,200,OK,BLC 1-85,text,TRUE,,177583,135,97,97,https://elearn.daffodilvarsity.edu.bd:443/,255,0,0
+1.68634E+12,12266,HTTP Request,200,OK,BLC 1-98,text,TRUE,,177932,266,97,97,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-98,text,TRUE,,349,131,97,97,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,12215,HTTP Request-1,200,OK,BLC 1-98,text,TRUE,,177583,135,97,97,https://elearn.daffodilvarsity.edu.bd:443/,242,0,0
+1.68634E+12,12127,HTTP Request,200,OK,BLC 1-35,text,TRUE,,177940,266,97,97,https://elearn.daffodilvarsity.edu.bd:443/,102,0,0
+1.68634E+12,102,HTTP Request-0,301,Moved Permanently,BLC 1-35,text,TRUE,,349,131,97,97,http://elearn.daffodilvarsity.edu.bd/,102,0,0
+1.68634E+12,12025,HTTP Request-1,200,OK,BLC 1-35,text,TRUE,,177591,135,97,97,https://elearn.daffodilvarsity.edu.bd:443/,161,0,0
+1.68634E+12,12589,HTTP Request,200,OK,BLC 1-39,text,TRUE,,177940,266,97,97,https://elearn.daffodilvarsity.edu.bd:443/,55,0,0
+1.68634E+12,55,HTTP Request-0,301,Moved Permanently,BLC 1-39,text,TRUE,,349,131,97,97,http://elearn.daffodilvarsity.edu.bd/,55,0,0
+1.68634E+12,12534,HTTP Request-1,200,OK,BLC 1-39,text,TRUE,,177591,135,97,97,https://elearn.daffodilvarsity.edu.bd:443/,463,0,0
+1.68634E+12,12412,HTTP Request,200,OK,BLC 1-59,text,TRUE,,177924,266,97,97,https://elearn.daffodilvarsity.edu.bd:443/,58,0,0
+1.68634E+12,58,HTTP Request-0,301,Moved Permanently,BLC 1-59,text,TRUE,,349,131,97,97,http://elearn.daffodilvarsity.edu.bd/,58,0,0
+1.68634E+12,12354,HTTP Request-1,200,OK,BLC 1-59,text,TRUE,,177575,135,97,97,https://elearn.daffodilvarsity.edu.bd:443/,284,0,0
+1.68634E+12,10779,HTTP Request,200,OK,BLC 1-27,text,TRUE,,177940,266,97,97,https://elearn.daffodilvarsity.edu.bd:443/,73,0,0
+1.68634E+12,73,HTTP Request-0,301,Moved Permanently,BLC 1-27,text,TRUE,,349,131,97,97,http://elearn.daffodilvarsity.edu.bd/,73,0,0
+1.68634E+12,10705,HTTP Request-1,200,OK,BLC 1-27,text,TRUE,,177591,135,97,97,https://elearn.daffodilvarsity.edu.bd:443/,217,0,0
+1.68634E+12,11709,HTTP Request,200,OK,BLC 1-46,text,TRUE,,177932,266,96,96,https://elearn.daffodilvarsity.edu.bd:443/,56,0,0
+1.68634E+12,56,HTTP Request-0,301,Moved Permanently,BLC 1-46,text,TRUE,,349,131,96,96,http://elearn.daffodilvarsity.edu.bd/,56,0,0
+1.68634E+12,11652,HTTP Request-1,200,OK,BLC 1-46,text,TRUE,,177583,135,96,96,https://elearn.daffodilvarsity.edu.bd:443/,348,0,0
+1.68634E+12,12150,HTTP Request,200,OK,BLC 1-88,text,TRUE,,177932,266,95,95,https://elearn.daffodilvarsity.edu.bd:443/,67,0,0
+1.68634E+12,67,HTTP Request-0,301,Moved Permanently,BLC 1-88,text,TRUE,,349,131,95,95,http://elearn.daffodilvarsity.edu.bd/,67,0,0
+1.68634E+12,12083,HTTP Request-1,200,OK,BLC 1-88,text,TRUE,,177583,135,95,95,https://elearn.daffodilvarsity.edu.bd:443/,244,0,0
+1.68634E+12,12168,HTTP Request,200,OK,BLC 1-95,text,TRUE,,177932,266,95,95,https://elearn.daffodilvarsity.edu.bd:443/,74,0,0
+1.68634E+12,74,HTTP Request-0,301,Moved Permanently,BLC 1-95,text,TRUE,,349,131,95,95,http://elearn.daffodilvarsity.edu.bd/,74,0,0
+1.68634E+12,12093,HTTP Request-1,200,OK,BLC 1-95,text,TRUE,,177583,135,95,95,https://elearn.daffodilvarsity.edu.bd:443/,312,0,0
+1.68634E+12,9864,HTTP Request,200,OK,BLC 1-50,text,TRUE,,177940,266,95,95,https://elearn.daffodilvarsity.edu.bd:443/,59,0,0
+1.68634E+12,59,HTTP Request-0,301,Moved Permanently,BLC 1-50,text,TRUE,,349,131,95,95,http://elearn.daffodilvarsity.edu.bd/,59,0,0
+1.68634E+12,9805,HTTP Request-1,200,OK,BLC 1-50,text,TRUE,,177591,135,95,95,https://elearn.daffodilvarsity.edu.bd:443/,280,0,0
+1.68634E+12,10913,HTTP Request,200,OK,BLC 1-31,text,TRUE,,177948,266,94,94,https://elearn.daffodilvarsity.edu.bd:443/,57,0,0
+1.68634E+12,57,HTTP Request-0,301,Moved Permanently,BLC 1-31,text,TRUE,,349,131,94,94,http://elearn.daffodilvarsity.edu.bd/,57,0,0
+1.68634E+12,10856,HTTP Request-1,200,OK,BLC 1-31,text,TRUE,,177599,135,94,94,https://elearn.daffodilvarsity.edu.bd:443/,355,0,0
+1.68634E+12,10198,HTTP Request,200,OK,BLC 1-89,text,TRUE,,177948,266,93,93,https://elearn.daffodilvarsity.edu.bd:443/,56,0,0
+1.68634E+12,56,HTTP Request-0,301,Moved Permanently,BLC 1-89,text,TRUE,,349,131,93,93,http://elearn.daffodilvarsity.edu.bd/,56,0,0
+1.68634E+12,10142,HTTP Request-1,200,OK,BLC 1-89,text,TRUE,,177599,135,93,93,https://elearn.daffodilvarsity.edu.bd:443/,319,0,0
+1.68634E+12,12064,HTTP Request,200,OK,BLC 1-37,text,TRUE,,177956,266,92,92,https://elearn.daffodilvarsity.edu.bd:443/,78,0,0
+1.68634E+12,78,HTTP Request-0,301,Moved Permanently,BLC 1-37,text,TRUE,,349,131,92,92,http://elearn.daffodilvarsity.edu.bd/,78,0,0
+1.68634E+12,11986,HTTP Request-1,200,OK,BLC 1-37,text,TRUE,,177607,135,92,92,https://elearn.daffodilvarsity.edu.bd:443/,228,0,0
+1.68634E+12,9755,HTTP Request,200,OK,BLC 1-7,text,TRUE,,177947,266,91,91,https://elearn.daffodilvarsity.edu.bd:443/,57,0,0
+1.68634E+12,57,HTTP Request-0,301,Moved Permanently,BLC 1-7,text,TRUE,,349,131,91,91,http://elearn.daffodilvarsity.edu.bd/,57,0,0
+1.68634E+12,9698,HTTP Request-1,200,OK,BLC 1-7,text,TRUE,,177598,135,91,91,https://elearn.daffodilvarsity.edu.bd:443/,315,0,0
+1.68634E+12,11134,HTTP Request,200,OK,BLC 1-73,text,TRUE,,177940,266,90,90,https://elearn.daffodilvarsity.edu.bd:443/,58,0,0
+1.68634E+12,58,HTTP Request-0,301,Moved Permanently,BLC 1-73,text,TRUE,,349,131,90,90,http://elearn.daffodilvarsity.edu.bd/,58,0,0
+1.68634E+12,11076,HTTP Request-1,200,OK,BLC 1-73,text,TRUE,,177591,135,90,90,https://elearn.daffodilvarsity.edu.bd:443/,161,0,0
+1.68634E+12,9292,HTTP Request,200,OK,BLC 1-29,text,TRUE,,177940,266,89,89,https://elearn.daffodilvarsity.edu.bd:443/,57,0,0
+1.68634E+12,57,HTTP Request-0,301,Moved Permanently,BLC 1-29,text,TRUE,,349,131,89,89,http://elearn.daffodilvarsity.edu.bd/,57,0,0
+1.68634E+12,9235,HTTP Request-1,200,OK,BLC 1-29,text,TRUE,,177591,135,89,89,https://elearn.daffodilvarsity.edu.bd:443/,342,0,0
+1.68634E+12,10977,HTTP Request,200,OK,BLC 1-53,text,TRUE,,177940,266,88,88,https://elearn.daffodilvarsity.edu.bd:443/,58,0,0
+1.68634E+12,58,HTTP Request-0,301,Moved Permanently,BLC 1-53,text,TRUE,,349,131,88,88,http://elearn.daffodilvarsity.edu.bd/,58,0,0
+1.68634E+12,10919,HTTP Request-1,200,OK,BLC 1-53,text,TRUE,,177591,135,88,88,https://elearn.daffodilvarsity.edu.bd:443/,358,0,0
+1.68634E+12,10042,HTTP Request,200,OK,BLC 1-17,text,TRUE,,177924,266,87,87,https://elearn.daffodilvarsity.edu.bd:443/,58,0,0
+1.68634E+12,58,HTTP Request-0,301,Moved Permanently,BLC 1-17,text,TRUE,,349,131,87,87,http://elearn.daffodilvarsity.edu.bd/,58,0,0
+1.68634E+12,9984,HTTP Request-1,200,OK,BLC 1-17,text,TRUE,,177575,135,87,87,https://elearn.daffodilvarsity.edu.bd:443/,353,0,0
+1.68634E+12,9586,HTTP Request,200,OK,BLC 1-14,text,TRUE,,177932,266,86,86,https://elearn.daffodilvarsity.edu.bd:443/,82,0,0
+1.68634E+12,82,HTTP Request-0,301,Moved Permanently,BLC 1-14,text,TRUE,,349,131,86,86,http://elearn.daffodilvarsity.edu.bd/,82,0,0
+1.68634E+12,9504,HTTP Request-1,200,OK,BLC 1-14,text,TRUE,,177583,135,86,86,https://elearn.daffodilvarsity.edu.bd:443/,367,0,0
+1.68634E+12,9709,HTTP Request,200,OK,BLC 1-42,text,TRUE,,177940,266,85,85,https://elearn.daffodilvarsity.edu.bd:443/,83,0,0
+1.68634E+12,83,HTTP Request-0,301,Moved Permanently,BLC 1-42,text,TRUE,,349,131,85,85,http://elearn.daffodilvarsity.edu.bd/,83,0,0
+1.68634E+12,9626,HTTP Request-1,200,OK,BLC 1-42,text,TRUE,,177591,135,85,85,https://elearn.daffodilvarsity.edu.bd:443/,311,0,0
+1.68634E+12,10543,HTTP Request,200,OK,BLC 1-24,text,TRUE,,177932,266,84,84,https://elearn.daffodilvarsity.edu.bd:443/,57,0,0
+1.68634E+12,57,HTTP Request-0,301,Moved Permanently,BLC 1-24,text,TRUE,,349,131,84,84,http://elearn.daffodilvarsity.edu.bd/,57,0,0
+1.68634E+12,10486,HTTP Request-1,200,OK,BLC 1-24,text,TRUE,,177583,135,84,84,https://elearn.daffodilvarsity.edu.bd:443/,277,0,0
+1.68634E+12,10775,HTTP Request,200,OK,BLC 1-49,text,TRUE,,177932,266,83,83,https://elearn.daffodilvarsity.edu.bd:443/,85,0,0
+1.68634E+12,85,HTTP Request-0,301,Moved Permanently,BLC 1-49,text,TRUE,,349,131,83,83,http://elearn.daffodilvarsity.edu.bd/,85,0,0
+1.68634E+12,10690,HTTP Request-1,200,OK,BLC 1-49,text,TRUE,,177583,135,83,83,https://elearn.daffodilvarsity.edu.bd:443/,291,0,0
+1.68634E+12,10419,HTTP Request,200,OK,BLC 1-90,text,TRUE,,177940,266,82,82,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-90,text,TRUE,,349,131,82,82,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,10366,HTTP Request-1,200,OK,BLC 1-90,text,TRUE,,177591,135,82,82,https://elearn.daffodilvarsity.edu.bd:443/,535,0,0
+1.68634E+12,10960,HTTP Request,200,OK,BLC 1-5,text,TRUE,,177940,266,81,81,https://elearn.daffodilvarsity.edu.bd:443/,55,0,0
+1.68634E+12,55,HTTP Request-0,301,Moved Permanently,BLC 1-5,text,TRUE,,349,131,81,81,http://elearn.daffodilvarsity.edu.bd/,55,0,0
+1.68634E+12,10905,HTTP Request-1,200,OK,BLC 1-5,text,TRUE,,177591,135,81,81,https://elearn.daffodilvarsity.edu.bd:443/,308,0,0
+1.68634E+12,10556,HTTP Request,200,OK,BLC 1-55,text,TRUE,,177932,266,80,80,https://elearn.daffodilvarsity.edu.bd:443/,59,0,0
+1.68634E+12,59,HTTP Request-0,301,Moved Permanently,BLC 1-55,text,TRUE,,349,131,80,80,http://elearn.daffodilvarsity.edu.bd/,59,0,0
+1.68634E+12,10497,HTTP Request-1,200,OK,BLC 1-55,text,TRUE,,177583,135,80,80,https://elearn.daffodilvarsity.edu.bd:443/,387,0,0
+1.68634E+12,9424,HTTP Request,200,OK,BLC 1-57,text,TRUE,,177948,266,79,79,https://elearn.daffodilvarsity.edu.bd:443/,47,0,0
+1.68634E+12,47,HTTP Request-0,301,Moved Permanently,BLC 1-57,text,TRUE,,349,131,79,79,http://elearn.daffodilvarsity.edu.bd/,47,0,0
+1.68634E+12,9377,HTTP Request-1,200,OK,BLC 1-57,text,TRUE,,177599,135,79,79,https://elearn.daffodilvarsity.edu.bd:443/,326,0,0
+1.68634E+12,10553,HTTP Request,200,OK,BLC 1-77,text,TRUE,,177932,266,78,78,https://elearn.daffodilvarsity.edu.bd:443/,59,0,0
+1.68634E+12,59,HTTP Request-0,301,Moved Permanently,BLC 1-77,text,TRUE,,349,131,78,78,http://elearn.daffodilvarsity.edu.bd/,59,0,0
+1.68634E+12,10494,HTTP Request-1,200,OK,BLC 1-77,text,TRUE,,177583,135,78,78,https://elearn.daffodilvarsity.edu.bd:443/,360,0,0
+1.68634E+12,9681,HTTP Request,200,OK,BLC 1-40,text,TRUE,,177940,266,77,77,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-40,text,TRUE,,349,131,77,77,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,9631,HTTP Request-1,200,OK,BLC 1-40,text,TRUE,,177591,135,77,77,https://elearn.daffodilvarsity.edu.bd:443/,350,0,0
+1.68634E+12,10170,HTTP Request,200,OK,BLC 1-32,text,TRUE,,177948,266,76,76,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-32,text,TRUE,,349,131,76,76,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,10119,HTTP Request-1,200,OK,BLC 1-32,text,TRUE,,177599,135,76,76,https://elearn.daffodilvarsity.edu.bd:443/,274,0,0
+1.68634E+12,10236,HTTP Request,200,OK,BLC 1-72,text,TRUE,,177948,266,75,75,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-72,text,TRUE,,349,131,75,75,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,10185,HTTP Request-1,200,OK,BLC 1-72,text,TRUE,,177599,135,75,75,https://elearn.daffodilvarsity.edu.bd:443/,195,0,0
+1.68634E+12,10251,HTTP Request,200,OK,BLC 1-61,text,TRUE,,177932,266,74,74,https://elearn.daffodilvarsity.edu.bd:443/,47,0,0
+1.68634E+12,47,HTTP Request-0,301,Moved Permanently,BLC 1-61,text,TRUE,,349,131,74,74,http://elearn.daffodilvarsity.edu.bd/,47,0,0
+1.68634E+12,10204,HTTP Request-1,200,OK,BLC 1-61,text,TRUE,,177583,135,74,74,https://elearn.daffodilvarsity.edu.bd:443/,152,0,0
+1.68634E+12,9431,HTTP Request,200,OK,BLC 1-74,text,TRUE,,177940,266,73,73,https://elearn.daffodilvarsity.edu.bd:443/,59,0,0
+1.68634E+12,59,HTTP Request-0,301,Moved Permanently,BLC 1-74,text,TRUE,,349,131,73,73,http://elearn.daffodilvarsity.edu.bd/,59,0,0
+1.68634E+12,9372,HTTP Request-1,200,OK,BLC 1-74,text,TRUE,,177591,135,73,73,https://elearn.daffodilvarsity.edu.bd:443/,294,0,0
+1.68634E+12,10215,HTTP Request,200,OK,BLC 1-96,text,TRUE,,177948,266,72,72,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-96,text,TRUE,,349,131,72,72,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,10165,HTTP Request-1,200,OK,BLC 1-96,text,TRUE,,177599,135,72,72,https://elearn.daffodilvarsity.edu.bd:443/,286,0,0
+1.68634E+12,10082,HTTP Request,200,OK,BLC 1-91,text,TRUE,,177940,266,71,71,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-91,text,TRUE,,349,131,71,71,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,10032,HTTP Request-1,200,OK,BLC 1-91,text,TRUE,,177591,135,71,71,https://elearn.daffodilvarsity.edu.bd:443/,250,0,0
+1.68634E+12,8830,HTTP Request,200,OK,BLC 1-21,text,TRUE,,177955,266,70,70,https://elearn.daffodilvarsity.edu.bd:443/,49,0,0
+1.68634E+12,49,HTTP Request-0,301,Moved Permanently,BLC 1-21,text,TRUE,,349,131,70,70,http://elearn.daffodilvarsity.edu.bd/,49,0,0
+1.68634E+12,8781,HTTP Request-1,200,OK,BLC 1-21,text,TRUE,,177606,135,70,70,https://elearn.daffodilvarsity.edu.bd:443/,246,0,0
+1.68634E+12,9600,HTTP Request,200,OK,BLC 1-15,text,TRUE,,177948,266,69,69,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-15,text,TRUE,,349,131,69,69,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,9540,HTTP Request-1,200,OK,BLC 1-15,text,TRUE,,177599,135,69,69,https://elearn.daffodilvarsity.edu.bd:443/,369,0,0
+1.68634E+12,9931,HTTP Request,200,OK,BLC 1-3,text,TRUE,,177940,266,68,68,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-3,text,TRUE,,349,131,68,68,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,9880,HTTP Request-1,200,OK,BLC 1-3,text,TRUE,,177591,135,68,68,https://elearn.daffodilvarsity.edu.bd:443/,349,0,0
+1.68634E+12,9961,HTTP Request,200,OK,BLC 1-62,text,TRUE,,177940,266,67,67,https://elearn.daffodilvarsity.edu.bd:443/,58,0,0
+1.68634E+12,58,HTTP Request-0,301,Moved Permanently,BLC 1-62,text,TRUE,,349,131,67,67,http://elearn.daffodilvarsity.edu.bd/,58,0,0
+1.68634E+12,9903,HTTP Request-1,200,OK,BLC 1-62,text,TRUE,,177591,135,67,67,https://elearn.daffodilvarsity.edu.bd:443/,368,0,0
+1.68634E+12,9605,HTTP Request,200,OK,BLC 1-100,text,TRUE,,177955,266,66,66,https://elearn.daffodilvarsity.edu.bd:443/,52,0,0
+1.68634E+12,52,HTTP Request-0,301,Moved Permanently,BLC 1-100,text,TRUE,,349,131,66,66,http://elearn.daffodilvarsity.edu.bd/,52,0,0
+1.68634E+12,9553,HTTP Request-1,200,OK,BLC 1-100,text,TRUE,,177606,135,66,66,https://elearn.daffodilvarsity.edu.bd:443/,394,0,0
+1.68634E+12,9400,HTTP Request,200,OK,BLC 1-52,text,TRUE,,177948,266,65,65,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-52,text,TRUE,,349,131,65,65,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,9340,HTTP Request-1,200,OK,BLC 1-52,text,TRUE,,177599,135,65,65,https://elearn.daffodilvarsity.edu.bd:443/,424,0,0
+1.68634E+12,10054,HTTP Request,200,OK,BLC 1-94,text,TRUE,,177940,266,64,64,https://elearn.daffodilvarsity.edu.bd:443/,56,0,0
+1.68634E+12,56,HTTP Request-0,301,Moved Permanently,BLC 1-94,text,TRUE,,349,131,64,64,http://elearn.daffodilvarsity.edu.bd/,56,0,0
+1.68634E+12,9997,HTTP Request-1,200,OK,BLC 1-94,text,TRUE,,177591,135,64,64,https://elearn.daffodilvarsity.edu.bd:443/,320,0,0
+1.68634E+12,9682,HTTP Request,200,OK,BLC 1-51,text,TRUE,,177940,266,63,63,https://elearn.daffodilvarsity.edu.bd:443/,54,0,0
+1.68634E+12,54,HTTP Request-0,301,Moved Permanently,BLC 1-51,text,TRUE,,349,131,63,63,http://elearn.daffodilvarsity.edu.bd/,54,0,0
+1.68634E+12,9628,HTTP Request-1,200,OK,BLC 1-51,text,TRUE,,177591,135,63,63,https://elearn.daffodilvarsity.edu.bd:443/,334,0,0
+1.68634E+12,9939,HTTP Request,200,OK,BLC 1-69,text,TRUE,,177924,266,62,62,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-69,text,TRUE,,349,131,62,62,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,9886,HTTP Request-1,200,OK,BLC 1-69,text,TRUE,,177575,135,62,62,https://elearn.daffodilvarsity.edu.bd:443/,307,0,0
+1.68634E+12,10359,HTTP Request,200,OK,BLC 1-47,text,TRUE,,177940,266,61,61,https://elearn.daffodilvarsity.edu.bd:443/,57,0,0
+1.68634E+12,57,HTTP Request-0,301,Moved Permanently,BLC 1-47,text,TRUE,,349,131,61,61,http://elearn.daffodilvarsity.edu.bd/,57,0,0
+1.68634E+12,10302,HTTP Request-1,200,OK,BLC 1-47,text,TRUE,,177591,135,61,61,https://elearn.daffodilvarsity.edu.bd:443/,265,0,0
+1.68634E+12,8122,HTTP Request,200,OK,BLC 1-8,text,TRUE,,177924,266,60,60,https://elearn.daffodilvarsity.edu.bd:443/,54,0,0
+1.68634E+12,54,HTTP Request-0,301,Moved Permanently,BLC 1-8,text,TRUE,,349,131,60,60,http://elearn.daffodilvarsity.edu.bd/,54,0,0
+1.68634E+12,8068,HTTP Request-1,200,OK,BLC 1-8,text,TRUE,,177575,135,60,60,https://elearn.daffodilvarsity.edu.bd:443/,532,0,0
+1.68634E+12,9112,HTTP Request,200,OK,BLC 1-19,text,TRUE,,177948,266,59,59,https://elearn.daffodilvarsity.edu.bd:443/,58,0,0
+1.68634E+12,58,HTTP Request-0,301,Moved Permanently,BLC 1-19,text,TRUE,,349,131,59,59,http://elearn.daffodilvarsity.edu.bd/,58,0,0
+1.68634E+12,9054,HTTP Request-1,200,OK,BLC 1-19,text,TRUE,,177599,135,59,59,https://elearn.daffodilvarsity.edu.bd:443/,318,0,0
+1.68634E+12,9052,HTTP Request,200,OK,BLC 1-93,text,TRUE,,177964,266,58,58,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-93,text,TRUE,,349,131,58,58,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,8992,HTTP Request-1,200,OK,BLC 1-93,text,TRUE,,177615,135,58,58,https://elearn.daffodilvarsity.edu.bd:443/,308,0,0
+1.68634E+12,10352,HTTP Request,200,OK,BLC 1-84,text,TRUE,,177948,266,57,57,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-84,text,TRUE,,349,131,57,57,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,10291,HTTP Request-1,200,OK,BLC 1-84,text,TRUE,,177599,135,57,57,https://elearn.daffodilvarsity.edu.bd:443/,389,0,0
+1.68634E+12,10253,HTTP Request,200,OK,BLC 1-23,text,TRUE,,177948,266,56,56,https://elearn.daffodilvarsity.edu.bd:443/,61,0,0
+1.68634E+12,61,HTTP Request-0,301,Moved Permanently,BLC 1-23,text,TRUE,,349,131,56,56,http://elearn.daffodilvarsity.edu.bd/,61,0,0
+1.68634E+12,10192,HTTP Request-1,200,OK,BLC 1-23,text,TRUE,,177599,135,56,56,https://elearn.daffodilvarsity.edu.bd:443/,278,0,0
+1.68634E+12,10162,HTTP Request,200,OK,BLC 1-87,text,TRUE,,177940,266,55,55,https://elearn.daffodilvarsity.edu.bd:443/,52,0,0
+1.68634E+12,52,HTTP Request-0,301,Moved Permanently,BLC 1-87,text,TRUE,,349,131,55,55,http://elearn.daffodilvarsity.edu.bd/,52,0,0
+1.68634E+12,10110,HTTP Request-1,200,OK,BLC 1-87,text,TRUE,,177591,135,55,55,https://elearn.daffodilvarsity.edu.bd:443/,555,0,0
+1.68634E+12,9789,HTTP Request,200,OK,BLC 1-11,text,TRUE,,177956,266,54,54,https://elearn.daffodilvarsity.edu.bd:443/,57,0,0
+1.68634E+12,57,HTTP Request-0,301,Moved Permanently,BLC 1-11,text,TRUE,,349,131,54,54,http://elearn.daffodilvarsity.edu.bd/,57,0,0
+1.68634E+12,9732,HTTP Request-1,200,OK,BLC 1-11,text,TRUE,,177607,135,54,54,https://elearn.daffodilvarsity.edu.bd:443/,274,0,0
+1.68634E+12,8608,HTTP Request,200,OK,BLC 1-38,text,TRUE,,177932,266,53,53,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-38,text,TRUE,,349,131,53,53,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,8558,HTTP Request-1,200,OK,BLC 1-38,text,TRUE,,177583,135,53,53,https://elearn.daffodilvarsity.edu.bd:443/,242,0,0
+1.68634E+12,10369,HTTP Request,200,OK,BLC 1-75,text,TRUE,,177948,266,52,52,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,8640,HTTP Request,200,OK,BLC 1-12,text,TRUE,,177956,266,52,52,https://elearn.daffodilvarsity.edu.bd:443/,56,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-75,text,TRUE,,349,131,52,52,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,56,HTTP Request-0,301,Moved Permanently,BLC 1-12,text,TRUE,,349,131,52,52,http://elearn.daffodilvarsity.edu.bd/,56,0,0
+1.68634E+12,10316,HTTP Request-1,200,OK,BLC 1-75,text,TRUE,,177599,135,52,52,https://elearn.daffodilvarsity.edu.bd:443/,382,0,0
+1.68634E+12,8584,HTTP Request-1,200,OK,BLC 1-12,text,TRUE,,177607,135,52,52,https://elearn.daffodilvarsity.edu.bd:443/,406,0,0
+1.68634E+12,9388,HTTP Request,200,OK,BLC 1-34,text,TRUE,,177948,266,50,50,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-34,text,TRUE,,349,131,50,50,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,9335,HTTP Request-1,200,OK,BLC 1-34,text,TRUE,,177599,135,50,50,https://elearn.daffodilvarsity.edu.bd:443/,289,0,0
+1.68634E+12,9430,HTTP Request,200,OK,BLC 1-45,text,TRUE,,177948,266,49,49,https://elearn.daffodilvarsity.edu.bd:443/,58,0,0
+1.68634E+12,58,HTTP Request-0,301,Moved Permanently,BLC 1-45,text,TRUE,,349,131,49,49,http://elearn.daffodilvarsity.edu.bd/,58,0,0
+1.68634E+12,9372,HTTP Request-1,200,OK,BLC 1-45,text,TRUE,,177599,135,49,49,https://elearn.daffodilvarsity.edu.bd:443/,437,0,0
+1.68634E+12,9351,HTTP Request,200,OK,BLC 1-86,text,TRUE,,177932,266,48,48,https://elearn.daffodilvarsity.edu.bd:443/,54,0,0
+1.68634E+12,54,HTTP Request-0,301,Moved Permanently,BLC 1-86,text,TRUE,,349,131,48,48,http://elearn.daffodilvarsity.edu.bd/,54,0,0
+1.68634E+12,9297,HTTP Request-1,200,OK,BLC 1-86,text,TRUE,,177583,135,48,48,https://elearn.daffodilvarsity.edu.bd:443/,324,0,0
+1.68634E+12,9541,HTTP Request,200,OK,BLC 1-26,text,TRUE,,177948,266,48,48,https://elearn.daffodilvarsity.edu.bd:443/,55,0,0
+1.68634E+12,55,HTTP Request-0,301,Moved Permanently,BLC 1-26,text,TRUE,,349,131,48,48,http://elearn.daffodilvarsity.edu.bd/,55,0,0
+1.68634E+12,9486,HTTP Request-1,200,OK,BLC 1-26,text,TRUE,,177599,135,48,48,https://elearn.daffodilvarsity.edu.bd:443/,506,0,0
+1.68634E+12,9550,HTTP Request,200,OK,BLC 1-33,text,TRUE,,177946,266,46,46,https://elearn.daffodilvarsity.edu.bd:443/,59,0,0
+1.68634E+12,59,HTTP Request-0,301,Moved Permanently,BLC 1-33,text,TRUE,,349,131,46,46,http://elearn.daffodilvarsity.edu.bd/,59,0,0
+1.68634E+12,9491,HTTP Request-1,200,OK,BLC 1-33,text,TRUE,,177597,135,46,46,https://elearn.daffodilvarsity.edu.bd:443/,594,0,0
+1.68634E+12,8839,HTTP Request,200,OK,BLC 1-41,text,TRUE,,177956,266,45,45,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-41,text,TRUE,,349,131,45,45,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,8789,HTTP Request-1,200,OK,BLC 1-41,text,TRUE,,177607,135,45,45,https://elearn.daffodilvarsity.edu.bd:443/,216,0,0
+1.68634E+12,8761,HTTP Request,200,OK,BLC 1-44,text,TRUE,,177948,266,44,44,https://elearn.daffodilvarsity.edu.bd:443/,63,0,0
+1.68634E+12,63,HTTP Request-0,301,Moved Permanently,BLC 1-44,text,TRUE,,349,131,44,44,http://elearn.daffodilvarsity.edu.bd/,63,0,0
+1.68634E+12,8698,HTTP Request-1,200,OK,BLC 1-44,text,TRUE,,177599,135,44,44,https://elearn.daffodilvarsity.edu.bd:443/,269,0,0
+1.68634E+12,9513,HTTP Request,200,OK,BLC 1-65,text,TRUE,,177939,266,43,43,https://elearn.daffodilvarsity.edu.bd:443/,59,0,0
+1.68634E+12,59,HTTP Request-0,301,Moved Permanently,BLC 1-65,text,TRUE,,349,131,43,43,http://elearn.daffodilvarsity.edu.bd/,59,0,0
+1.68634E+12,9454,HTTP Request-1,200,OK,BLC 1-65,text,TRUE,,177590,135,43,43,https://elearn.daffodilvarsity.edu.bd:443/,304,0,0
+1.68634E+12,7925,HTTP Request,200,OK,BLC 1-97,text,TRUE,,177932,266,42,42,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-97,text,TRUE,,349,131,42,42,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,7872,HTTP Request-1,200,OK,BLC 1-97,text,TRUE,,177583,135,42,42,https://elearn.daffodilvarsity.edu.bd:443/,187,0,0
+1.68634E+12,8126,HTTP Request,200,OK,BLC 1-22,text,TRUE,,177940,266,41,41,https://elearn.daffodilvarsity.edu.bd:443/,56,0,0
+1.68634E+12,56,HTTP Request-0,301,Moved Permanently,BLC 1-22,text,TRUE,,349,131,41,41,http://elearn.daffodilvarsity.edu.bd/,56,0,0
+1.68634E+12,8070,HTTP Request-1,200,OK,BLC 1-22,text,TRUE,,177591,135,41,41,https://elearn.daffodilvarsity.edu.bd:443/,278,0,0
+1.68634E+12,8717,HTTP Request,200,OK,BLC 1-43,text,TRUE,,177940,266,40,40,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-43,text,TRUE,,349,131,40,40,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,8666,HTTP Request-1,200,OK,BLC 1-43,text,TRUE,,177591,135,40,40,https://elearn.daffodilvarsity.edu.bd:443/,269,0,0
+1.68634E+12,10476,HTTP Request,200,OK,BLC 1-25,text,TRUE,,177940,266,39,39,https://elearn.daffodilvarsity.edu.bd:443/,57,0,0
+1.68634E+12,57,HTTP Request-0,301,Moved Permanently,BLC 1-25,text,TRUE,,349,131,39,39,http://elearn.daffodilvarsity.edu.bd/,57,0,0
+1.68634E+12,10419,HTTP Request-1,200,OK,BLC 1-25,text,TRUE,,177591,135,39,39,https://elearn.daffodilvarsity.edu.bd:443/,515,0,0
+1.68634E+12,9717,HTTP Request,200,OK,BLC 1-10,text,TRUE,,177956,266,38,38,https://elearn.daffodilvarsity.edu.bd:443/,47,0,0
+1.68634E+12,47,HTTP Request-0,301,Moved Permanently,BLC 1-10,text,TRUE,,349,131,38,38,http://elearn.daffodilvarsity.edu.bd/,47,0,0
+1.68634E+12,9670,HTTP Request-1,200,OK,BLC 1-10,text,TRUE,,177607,135,38,38,https://elearn.daffodilvarsity.edu.bd:443/,566,0,0
+1.68634E+12,9735,HTTP Request,200,OK,BLC 1-2,text,TRUE,,177948,266,38,38,https://elearn.daffodilvarsity.edu.bd:443/,61,0,0
+1.68634E+12,61,HTTP Request-0,301,Moved Permanently,BLC 1-2,text,TRUE,,349,131,38,38,http://elearn.daffodilvarsity.edu.bd/,61,0,0
+1.68634E+12,9674,HTTP Request-1,200,OK,BLC 1-2,text,TRUE,,177599,135,38,38,https://elearn.daffodilvarsity.edu.bd:443/,283,0,0
+1.68634E+12,9832,HTTP Request,200,OK,BLC 1-20,text,TRUE,,177940,266,36,36,https://elearn.daffodilvarsity.edu.bd:443/,54,0,0
+1.68634E+12,54,HTTP Request-0,301,Moved Permanently,BLC 1-20,text,TRUE,,349,131,36,36,http://elearn.daffodilvarsity.edu.bd/,54,0,0
+1.68634E+12,9778,HTTP Request-1,200,OK,BLC 1-20,text,TRUE,,177591,135,36,36,https://elearn.daffodilvarsity.edu.bd:443/,271,0,0
+1.68634E+12,8496,HTTP Request,200,OK,BLC 1-4,text,TRUE,,177948,266,35,35,https://elearn.daffodilvarsity.edu.bd:443/,59,0,0
+1.68634E+12,59,HTTP Request-0,301,Moved Permanently,BLC 1-4,text,TRUE,,349,131,35,35,http://elearn.daffodilvarsity.edu.bd/,59,0,0
+1.68634E+12,8437,HTTP Request-1,200,OK,BLC 1-4,text,TRUE,,177599,135,35,35,https://elearn.daffodilvarsity.edu.bd:443/,429,0,0
+1.68634E+12,9235,HTTP Request,200,OK,BLC 1-83,text,TRUE,,177940,266,35,35,https://elearn.daffodilvarsity.edu.bd:443/,59,0,0
+1.68634E+12,59,HTTP Request-0,301,Moved Permanently,BLC 1-83,text,TRUE,,349,131,35,35,http://elearn.daffodilvarsity.edu.bd/,59,0,0
+1.68634E+12,9176,HTTP Request-1,200,OK,BLC 1-83,text,TRUE,,177591,135,35,35,https://elearn.daffodilvarsity.edu.bd:443/,366,0,0
+1.68634E+12,9906,HTTP Request,200,OK,BLC 1-36,text,TRUE,,177948,266,33,33,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-36,text,TRUE,,349,131,33,33,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,9846,HTTP Request-1,200,OK,BLC 1-36,text,TRUE,,177599,135,33,33,https://elearn.daffodilvarsity.edu.bd:443/,339,0,0
+1.68634E+12,8685,HTTP Request,200,OK,BLC 1-67,text,TRUE,,177932,266,32,32,https://elearn.daffodilvarsity.edu.bd:443/,56,0,0
+1.68634E+12,56,HTTP Request-0,301,Moved Permanently,BLC 1-67,text,TRUE,,349,131,32,32,http://elearn.daffodilvarsity.edu.bd/,56,0,0
+1.68634E+12,8629,HTTP Request-1,200,OK,BLC 1-67,text,TRUE,,177583,135,32,32,https://elearn.daffodilvarsity.edu.bd:443/,245,0,0
+1.68634E+12,8766,HTTP Request,200,OK,BLC 1-58,text,TRUE,,177940,266,31,31,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-58,text,TRUE,,349,131,31,31,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,8716,HTTP Request-1,200,OK,BLC 1-58,text,TRUE,,177591,135,31,31,https://elearn.daffodilvarsity.edu.bd:443/,325,0,0
+1.68634E+12,7995,HTTP Request,200,OK,BLC 1-56,text,TRUE,,177940,266,30,30,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-56,text,TRUE,,349,131,30,30,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,7945,HTTP Request-1,200,OK,BLC 1-56,text,TRUE,,177591,135,30,30,https://elearn.daffodilvarsity.edu.bd:443/,302,0,0
+1.68634E+12,9071,HTTP Request,200,OK,BLC 1-16,text,TRUE,,177940,266,29,29,https://elearn.daffodilvarsity.edu.bd:443/,60,0,0
+1.68634E+12,60,HTTP Request-0,301,Moved Permanently,BLC 1-16,text,TRUE,,349,131,29,29,http://elearn.daffodilvarsity.edu.bd/,60,0,0
+1.68634E+12,9011,HTTP Request-1,200,OK,BLC 1-16,text,TRUE,,177591,135,29,29,https://elearn.daffodilvarsity.edu.bd:443/,582,0,0
+1.68634E+12,7673,HTTP Request,200,OK,BLC 1-59,text,TRUE,,177956,266,28,28,https://elearn.daffodilvarsity.edu.bd:443/,54,0,0
+1.68634E+12,54,HTTP Request-0,301,Moved Permanently,BLC 1-59,text,TRUE,,349,131,28,28,http://elearn.daffodilvarsity.edu.bd/,54,0,0
+1.68634E+12,7619,HTTP Request-1,200,OK,BLC 1-59,text,TRUE,,177607,135,28,28,https://elearn.daffodilvarsity.edu.bd:443/,331,0,0
+1.68634E+12,9276,HTTP Request,200,OK,BLC 1-28,text,TRUE,,177940,266,27,27,https://elearn.daffodilvarsity.edu.bd:443/,67,0,0
+1.68634E+12,67,HTTP Request-0,301,Moved Permanently,BLC 1-28,text,TRUE,,349,131,27,27,http://elearn.daffodilvarsity.edu.bd/,67,0,0
+1.68634E+12,9209,HTTP Request-1,200,OK,BLC 1-28,text,TRUE,,177591,135,27,27,https://elearn.daffodilvarsity.edu.bd:443/,215,0,0
+1.68634E+12,8807,HTTP Request,200,OK,BLC 1-70,text,TRUE,,177924,266,26,26,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-70,text,TRUE,,349,131,26,26,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,8757,HTTP Request-1,200,OK,BLC 1-70,text,TRUE,,177575,135,26,26,https://elearn.daffodilvarsity.edu.bd:443/,325,0,0
+1.68634E+12,8745,HTTP Request,200,OK,BLC 1-60,text,TRUE,,177954,266,25,25,https://elearn.daffodilvarsity.edu.bd:443/,54,0,0
+1.68634E+12,54,HTTP Request-0,301,Moved Permanently,BLC 1-60,text,TRUE,,349,131,25,25,http://elearn.daffodilvarsity.edu.bd/,54,0,0
+1.68634E+12,8691,HTTP Request-1,200,OK,BLC 1-60,text,TRUE,,177605,135,25,25,https://elearn.daffodilvarsity.edu.bd:443/,247,0,0
+1.68634E+12,8849,HTTP Request,200,OK,BLC 1-9,text,TRUE,,177932,266,24,24,https://elearn.daffodilvarsity.edu.bd:443/,58,0,0
+1.68634E+12,58,HTTP Request-0,301,Moved Permanently,BLC 1-9,text,TRUE,,349,131,24,24,http://elearn.daffodilvarsity.edu.bd/,58,0,0
+1.68634E+12,8791,HTTP Request-1,200,OK,BLC 1-9,text,TRUE,,177583,135,24,24,https://elearn.daffodilvarsity.edu.bd:443/,454,0,0
+1.68634E+12,8869,HTTP Request,200,OK,BLC 1-80,text,TRUE,,177948,266,23,23,https://elearn.daffodilvarsity.edu.bd:443/,59,0,0
+1.68634E+12,59,HTTP Request-0,301,Moved Permanently,BLC 1-80,text,TRUE,,349,131,23,23,http://elearn.daffodilvarsity.edu.bd/,59,0,0
+1.68634E+12,8809,HTTP Request-1,200,OK,BLC 1-80,text,TRUE,,177599,135,23,23,https://elearn.daffodilvarsity.edu.bd:443/,311,0,0
+1.68634E+12,8892,HTTP Request,200,OK,BLC 1-82,text,TRUE,,177940,266,22,22,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-82,text,TRUE,,349,131,22,22,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,8839,HTTP Request-1,200,OK,BLC 1-82,text,TRUE,,177591,135,22,22,https://elearn.daffodilvarsity.edu.bd:443/,374,0,0
+1.68634E+12,8379,HTTP Request,200,OK,BLC 1-30,text,TRUE,,177932,266,21,21,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,48,HTTP Request-0,301,Moved Permanently,BLC 1-30,text,TRUE,,349,131,21,21,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,8331,HTTP Request-1,200,OK,BLC 1-30,text,TRUE,,177583,135,21,21,https://elearn.daffodilvarsity.edu.bd:443/,348,0,0
+1.68634E+12,8181,HTTP Request,200,OK,BLC 1-64,text,TRUE,,177940,266,20,20,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-64,text,TRUE,,349,131,20,20,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,8131,HTTP Request-1,200,OK,BLC 1-64,text,TRUE,,177591,135,20,20,https://elearn.daffodilvarsity.edu.bd:443/,413,0,0
+1.68634E+12,7790,HTTP Request,200,OK,BLC 1-88,text,TRUE,,177940,266,19,19,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-88,text,TRUE,,349,131,19,19,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,7737,HTTP Request-1,200,OK,BLC 1-88,text,TRUE,,177591,135,19,19,https://elearn.daffodilvarsity.edu.bd:443/,317,0,0
+1.68634E+12,8968,HTTP Request,200,OK,BLC 1-6,text,TRUE,,177948,266,18,18,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-6,text,TRUE,,349,131,18,18,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,8917,HTTP Request-1,200,OK,BLC 1-6,text,TRUE,,177599,135,18,18,https://elearn.daffodilvarsity.edu.bd:443/,492,0,0
+1.68634E+12,7973,HTTP Request,200,OK,BLC 1-98,text,TRUE,,177948,266,17,17,https://elearn.daffodilvarsity.edu.bd:443/,49,0,0
+1.68634E+12,49,HTTP Request-0,301,Moved Permanently,BLC 1-98,text,TRUE,,349,131,17,17,http://elearn.daffodilvarsity.edu.bd/,49,0,0
+1.68634E+12,7924,HTTP Request-1,200,OK,BLC 1-98,text,TRUE,,177599,135,17,17,https://elearn.daffodilvarsity.edu.bd:443/,427,0,0
+1.68634E+12,8652,HTTP Request,200,OK,BLC 1-71,text,TRUE,,177924,266,16,16,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,48,HTTP Request-0,301,Moved Permanently,BLC 1-71,text,TRUE,,349,131,16,16,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,8604,HTTP Request-1,200,OK,BLC 1-71,text,TRUE,,177575,135,16,16,https://elearn.daffodilvarsity.edu.bd:443/,576,0,0
+1.68634E+12,8750,HTTP Request,200,OK,BLC 1-76,text,TRUE,,177948,266,15,15,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-76,text,TRUE,,349,131,15,15,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,8697,HTTP Request-1,200,OK,BLC 1-76,text,TRUE,,177599,135,15,15,https://elearn.daffodilvarsity.edu.bd:443/,231,0,0
+1.68634E+12,8598,HTTP Request,200,OK,BLC 1-79,text,TRUE,,177948,266,14,14,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-79,text,TRUE,,349,131,14,14,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,8547,HTTP Request-1,200,OK,BLC 1-79,text,TRUE,,177599,135,14,14,https://elearn.daffodilvarsity.edu.bd:443/,476,0,0
+1.68634E+12,8052,HTTP Request,200,OK,BLC 1-85,text,TRUE,,177956,266,13,13,https://elearn.daffodilvarsity.edu.bd:443/,46,0,0
+1.68634E+12,46,HTTP Request-0,301,Moved Permanently,BLC 1-85,text,TRUE,,349,131,13,13,http://elearn.daffodilvarsity.edu.bd/,46,0,0
+1.68634E+12,8006,HTTP Request-1,200,OK,BLC 1-85,text,TRUE,,177607,135,13,13,https://elearn.daffodilvarsity.edu.bd:443/,443,0,0
+1.68634E+12,9207,HTTP Request,200,OK,BLC 1-1,text,TRUE,,177940,266,12,12,https://elearn.daffodilvarsity.edu.bd:443/,53,0,0
+1.68634E+12,53,HTTP Request-0,301,Moved Permanently,BLC 1-1,text,TRUE,,349,131,12,12,http://elearn.daffodilvarsity.edu.bd/,53,0,0
+1.68634E+12,9154,HTTP Request-1,200,OK,BLC 1-1,text,TRUE,,177591,135,12,12,https://elearn.daffodilvarsity.edu.bd:443/,357,0,0
+1.68634E+12,8503,HTTP Request,200,OK,BLC 1-63,text,TRUE,,177940,266,11,11,https://elearn.daffodilvarsity.edu.bd:443/,52,0,0
+1.68634E+12,52,HTTP Request-0,301,Moved Permanently,BLC 1-63,text,TRUE,,349,131,11,11,http://elearn.daffodilvarsity.edu.bd/,52,0,0
+1.68634E+12,8451,HTTP Request-1,200,OK,BLC 1-63,text,TRUE,,177591,135,11,11,https://elearn.daffodilvarsity.edu.bd:443/,349,0,0
+1.68634E+12,8785,HTTP Request,200,OK,BLC 1-66,text,TRUE,,177948,266,10,10,https://elearn.daffodilvarsity.edu.bd:443/,48,0,0
+1.68634E+12,48,HTTP Request-0,301,Moved Permanently,BLC 1-66,text,TRUE,,349,131,10,10,http://elearn.daffodilvarsity.edu.bd/,48,0,0
+1.68634E+12,8737,HTTP Request-1,200,OK,BLC 1-66,text,TRUE,,177599,135,10,10,https://elearn.daffodilvarsity.edu.bd:443/,392,0,0
+1.68634E+12,8532,HTTP Request,200,OK,BLC 1-78,text,TRUE,,177932,266,9,9,https://elearn.daffodilvarsity.edu.bd:443/,58,0,0
+1.68634E+12,58,HTTP Request-0,301,Moved Permanently,BLC 1-78,text,TRUE,,349,131,9,9,http://elearn.daffodilvarsity.edu.bd/,58,0,0
+1.68634E+12,8474,HTTP Request-1,200,OK,BLC 1-78,text,TRUE,,177583,135,9,9,https://elearn.daffodilvarsity.edu.bd:443/,376,0,0
+1.68634E+12,7962,HTTP Request,200,OK,BLC 1-39,text,TRUE,,177948,266,8,8,https://elearn.daffodilvarsity.edu.bd:443/,46,0,0
+1.68634E+12,46,HTTP Request-0,301,Moved Permanently,BLC 1-39,text,TRUE,,349,131,8,8,http://elearn.daffodilvarsity.edu.bd/,46,0,0
+1.68634E+12,7916,HTTP Request-1,200,OK,BLC 1-39,text,TRUE,,177599,135,8,8,https://elearn.daffodilvarsity.edu.bd:443/,531,0,0
+1.68634E+12,9446,HTTP Request,200,OK,BLC 1-54,text,TRUE,,177940,266,7,7,https://elearn.daffodilvarsity.edu.bd:443/,51,0,0
+1.68634E+12,51,HTTP Request-0,301,Moved Permanently,BLC 1-54,text,TRUE,,349,131,7,7,http://elearn.daffodilvarsity.edu.bd/,51,0,0
+1.68634E+12,9395,HTTP Request-1,200,OK,BLC 1-54,text,TRUE,,177591,135,7,7,https://elearn.daffodilvarsity.edu.bd:443/,637,0,0
+1.68634E+12,7943,HTTP Request,200,OK,BLC 1-95,text,TRUE,,177932,266,6,6,https://elearn.daffodilvarsity.edu.bd:443/,52,0,0
+1.68634E+12,52,HTTP Request-0,301,Moved Permanently,BLC 1-95,text,TRUE,,349,131,6,6,http://elearn.daffodilvarsity.edu.bd/,52,0,0
+1.68634E+12,7891,HTTP Request-1,200,OK,BLC 1-95,text,TRUE,,177583,135,6,6,https://elearn.daffodilvarsity.edu.bd:443/,274,0,0
+1.68634E+12,8607,HTTP Request,200,OK,BLC 1-99,text,TRUE,,177940,266,5,5,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-99,text,TRUE,,349,131,5,5,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,8557,HTTP Request-1,200,OK,BLC 1-99,text,TRUE,,177591,135,5,5,https://elearn.daffodilvarsity.edu.bd:443/,175,0,0
+1.68634E+12,8180,HTTP Request,200,OK,BLC 1-92,text,TRUE,,177948,266,4,4,https://elearn.daffodilvarsity.edu.bd:443/,49,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-92,text,TRUE,,349,131,4,4,http://elearn.daffodilvarsity.edu.bd/,49,0,0
+1.68634E+12,8130,HTTP Request-1,200,OK,BLC 1-92,text,TRUE,,177599,135,4,4,https://elearn.daffodilvarsity.edu.bd:443/,295,0,0
+1.68634E+12,8364,HTTP Request,200,OK,BLC 1-68,text,TRUE,,177939,266,3,3,https://elearn.daffodilvarsity.edu.bd:443/,47,0,0
+1.68634E+12,47,HTTP Request-0,301,Moved Permanently,BLC 1-68,text,TRUE,,349,131,3,3,http://elearn.daffodilvarsity.edu.bd/,47,0,0
+1.68634E+12,8316,HTTP Request-1,200,OK,BLC 1-68,text,TRUE,,177590,135,3,3,https://elearn.daffodilvarsity.edu.bd:443/,318,0,0
+1.68634E+12,8860,HTTP Request,200,OK,BLC 1-81,text,TRUE,,177947,266,2,2,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-81,text,TRUE,,349,131,2,2,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,8810,HTTP Request-1,200,OK,BLC 1-81,text,TRUE,,177598,135,2,2,https://elearn.daffodilvarsity.edu.bd:443/,328,0,0
+1.68634E+12,8044,HTTP Request,200,OK,BLC 1-35,text,TRUE,,177932,266,1,1,https://elearn.daffodilvarsity.edu.bd:443/,50,0,0
+1.68634E+12,50,HTTP Request-0,301,Moved Permanently,BLC 1-35,text,TRUE,,349,131,1,1,http://elearn.daffodilvarsity.edu.bd/,50,0,0
+1.68634E+12,7994,HTTP Request-1,200,OK,BLC 1-35,text,TRUE,,177583,135,1,1,https://elearn.daffodilvarsity.edu.bd:443/,391,0,0
